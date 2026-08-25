@@ -1,0 +1,8 @@
+[
+  {
+    "id": "emoji",
+    "name": "Emoji Metadata",
+    "status": "scaffold",
+    "source": "Unicode.org emoji data"
+  }
+]

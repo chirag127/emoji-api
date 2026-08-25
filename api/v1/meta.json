@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "lastUpdated": "2026-08-25T13:59:36.773Z",
+  "sourceUpdatedAt": "2026-08-25T13:59:36.773Z",
+  "retrievedAt": "2026-08-25T13:59:36.773Z",
+  "recordCount": 1,
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "source": "Unicode.org emoji data",
+  "license": "Unicode-DFS-2.1",
+  "updateCadence": "yearly",
+  "nextUpdateDue": "2026-11-23T13:59:36.773Z",
+  "lastFailedAt": null,
+  "failureReason": null
+}
