@@ -1,0 +1,73 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Emoji Metadata",
+    "description": "Emoji with categories, keywords, versions, and skin tone support",
+    "version": "1.0.0",
+    "license": {
+      "name": "Unicode-DFS-2.1"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/emoji",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Emoji Metadata data",
+        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/emoji": {
+      "get": {
+        "summary": "Emoji Metadata",
+        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/emoji/{code}": {
+      "get": {
+        "summary": "Emoji Metadata",
+        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
