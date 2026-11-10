@@ -1,0 +1,18 @@
+{
+  "id": "2744-FE0F",
+  "emoji": "❄️",
+  "name": "snowflake",
+  "codepoints": [
+    "U+2744",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3108
+}

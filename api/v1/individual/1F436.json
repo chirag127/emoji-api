@@ -1,0 +1,17 @@
+{
+  "id": "1F436",
+  "emoji": "🐶",
+  "name": "dog face",
+  "codepoints": [
+    "U+1F436"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2606
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF",
+  "emoji": "👩🏻‍🤝‍👩🏿",
+  "name": "women holding hands: light skin tone, dark skin tone",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+1F91D",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2285
+}

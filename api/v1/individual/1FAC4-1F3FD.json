@@ -1,0 +1,18 @@
+{
+  "id": "1FAC4-1F3FD",
+  "emoji": "🫄🏽",
+  "name": "pregnant person: medium skin tone",
+  "codepoints": [
+    "U+1FAC4",
+    "U+1F3FD"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1FAC4",
+  "status": "fully-qualified",
+  "order": 1323
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F61C",
+  "emoji": "😜",
+  "name": "winking face with tongue",
+  "codepoints": [
+    "U+1F61C"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-tongue",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 26
+}

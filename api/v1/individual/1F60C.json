@@ -1,0 +1,17 @@
+{
+  "id": "1F60C",
+  "emoji": "😌",
+  "name": "relieved face",
+  "codepoints": [
+    "U+1F60C"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-sleepy",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 53
+}

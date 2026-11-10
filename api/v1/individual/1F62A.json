@@ -1,0 +1,17 @@
+{
+  "id": "1F62A",
+  "emoji": "😪",
+  "name": "sleepy face",
+  "codepoints": [
+    "U+1F62A"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-sleepy",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 55
+}

@@ -1,0 +1,18 @@
+{
+  "id": "23F8-FE0F",
+  "emoji": "⏸️",
+  "name": "pause button",
+  "codepoints": [
+    "U+23F8",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3556
+}

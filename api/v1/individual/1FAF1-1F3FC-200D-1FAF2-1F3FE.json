@@ -1,0 +1,21 @@
+{
+  "id": "1FAF1-1F3FC-200D-1FAF2-1F3FE",
+  "emoji": "🫱🏼‍🫲🏾",
+  "name": "handshake: medium-light skin tone, medium-dark skin tone",
+  "codepoints": [
+    "U+1FAF1",
+    "U+1F3FC",
+    "U+200D",
+    "U+1FAF2",
+    "U+1F3FE"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 424
+}

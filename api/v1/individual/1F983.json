@@ -1,0 +1,17 @@
+{
+  "id": "1F983",
+  "emoji": "🦃",
+  "name": "turkey",
+  "codepoints": [
+    "U+1F983"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2668
+}

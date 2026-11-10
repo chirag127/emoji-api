@@ -1,0 +1,18 @@
+{
+  "id": "1F647-1F3FF",
+  "emoji": "🙇🏿",
+  "name": "person bowing: dark skin tone",
+  "codepoints": [
+    "U+1F647",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F647",
+  "status": "fully-qualified",
+  "order": 809
+}

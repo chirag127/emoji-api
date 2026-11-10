@@ -1,0 +1,18 @@
+{
+  "id": "1F932-1F3FD",
+  "emoji": "🤲🏽",
+  "name": "palms up together: medium skin tone",
+  "codepoints": [
+    "U+1F932",
+    "U+1F3FD"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F932",
+  "status": "fully-qualified",
+  "order": 409
+}

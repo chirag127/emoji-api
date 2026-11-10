@@ -1,0 +1,17 @@
+{
+  "id": "1FA7C",
+  "emoji": "🩼",
+  "name": "crutch",
+  "codepoints": [
+    "U+1FA7C"
+  ],
+  "version": "14.0",
+  "group": "Objects",
+  "subgroup": "medical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3432
+}

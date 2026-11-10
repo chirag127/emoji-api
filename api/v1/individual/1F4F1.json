@@ -1,0 +1,17 @@
+{
+  "id": "1F4F1",
+  "emoji": "📱",
+  "name": "mobile phone",
+  "codepoints": [
+    "U+1F4F1"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "phone",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3279
+}

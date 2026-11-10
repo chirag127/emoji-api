@@ -1,0 +1,18 @@
+{
+  "id": "1F44B-1F3FF",
+  "emoji": "👋🏿",
+  "name": "waving hand: dark skin tone",
+  "codepoints": [
+    "U+1F44B",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F44B",
+  "status": "fully-qualified",
+  "order": 177
+}

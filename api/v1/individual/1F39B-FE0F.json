@@ -1,0 +1,18 @@
+{
+  "id": "1F39B-FE0F",
+  "emoji": "🎛️",
+  "name": "control knobs",
+  "codepoints": [
+    "U+1F39B",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "music",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3262
+}

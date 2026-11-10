@@ -1,0 +1,17 @@
+{
+  "id": "1F3B5",
+  "emoji": "🎵",
+  "name": "musical note",
+  "codepoints": [
+    "U+1F3B5"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "music",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3258
+}

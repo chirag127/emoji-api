@@ -1,0 +1,17 @@
+{
+  "id": "1F349",
+  "emoji": "🍉",
+  "name": "watermelon",
+  "codepoints": [
+    "U+1F349"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2765
+}

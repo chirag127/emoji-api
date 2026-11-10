@@ -1,0 +1,17 @@
+{
+  "id": "1F307",
+  "emoji": "🌇",
+  "name": "sunset",
+  "codepoints": [
+    "U+1F307"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2953
+}

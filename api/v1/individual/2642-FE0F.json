@@ -1,0 +1,18 @@
+{
+  "id": "2642-FE0F",
+  "emoji": "♂️",
+  "name": "male sign",
+  "codepoints": [
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "Symbols",
+  "subgroup": "gender",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3568
+}

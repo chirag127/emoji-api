@@ -1,0 +1,17 @@
+{
+  "id": "1F91B",
+  "emoji": "🤛",
+  "name": "left-facing fist",
+  "codepoints": [
+    "U+1F91B"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 370
+}

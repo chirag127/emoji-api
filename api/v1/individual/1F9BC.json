@@ -1,0 +1,17 @@
+{
+  "id": "1F9BC",
+  "emoji": "🦼",
+  "name": "motorized wheelchair",
+  "codepoints": [
+    "U+1F9BC"
+  ],
+  "version": "12.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2995
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAE9",
+  "emoji": "🫩",
+  "name": "face with bags under eyes",
+  "codepoints": [
+    "U+1FAE9"
+  ],
+  "version": "16.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-sleepy",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 58
+}

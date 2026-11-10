@@ -1,0 +1,17 @@
+{
+  "id": "1F4E8",
+  "emoji": "📨",
+  "name": "incoming envelope",
+  "codepoints": [
+    "U+1F4E8"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3345
+}

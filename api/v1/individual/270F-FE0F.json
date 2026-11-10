@@ -1,0 +1,18 @@
+{
+  "id": "270F-FE0F",
+  "emoji": "✏️",
+  "name": "pencil",
+  "codepoints": [
+    "U+270F",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "writing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3356
+}

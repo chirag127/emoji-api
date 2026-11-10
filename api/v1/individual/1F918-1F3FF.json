@@ -1,0 +1,18 @@
+{
+  "id": "1F918-1F3FF",
+  "emoji": "🤘🏿",
+  "name": "sign of the horns: dark skin tone",
+  "codepoints": [
+    "U+1F918",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F918",
+  "status": "fully-qualified",
+  "order": 285
+}

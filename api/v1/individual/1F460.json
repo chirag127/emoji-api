@@ -1,0 +1,17 @@
+{
+  "id": "1F460",
+  "emoji": "👠",
+  "name": "high-heeled shoe",
+  "codepoints": [
+    "U+1F460"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3232
+}

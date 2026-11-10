@@ -1,0 +1,17 @@
+{
+  "id": "1F236",
+  "emoji": "🈶",
+  "name": "Japanese “not free of charge” button",
+  "codepoints": [
+    "U+1F236"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "alphanum",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3645
+}

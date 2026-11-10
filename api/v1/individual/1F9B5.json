@@ -1,0 +1,17 @@
+{
+  "id": "1F9B5",
+  "emoji": "🦵",
+  "name": "leg",
+  "codepoints": [
+    "U+1F9B5"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 470
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F973",
+  "emoji": "🥳",
+  "name": "partying face",
+  "codepoints": [
+    "U+1F973"
+  ],
+  "version": "11.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hat",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 72
+}

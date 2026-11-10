@@ -1,0 +1,17 @@
+{
+  "id": "1F392",
+  "emoji": "🎒",
+  "name": "backpack",
+  "codepoints": [
+    "U+1F392"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3226
+}

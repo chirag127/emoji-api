@@ -1,0 +1,18 @@
+{
+  "id": "1F468-1F3FF",
+  "emoji": "👨🏿",
+  "name": "man: dark skin tone",
+  "codepoints": [
+    "U+1F468",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F468",
+  "status": "fully-qualified",
+  "order": 551
+}

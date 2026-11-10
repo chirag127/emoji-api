@@ -1,0 +1,18 @@
+{
+  "id": "1F37D-FE0F",
+  "emoji": "🍽️",
+  "name": "fork and knife with plate",
+  "codepoints": [
+    "U+1F37D",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Food & Drink",
+  "subgroup": "dishware",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2889
+}

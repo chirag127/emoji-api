@@ -1,0 +1,17 @@
+{
+  "id": "2651",
+  "emoji": "♑",
+  "name": "Capricorn",
+  "codepoints": [
+    "U+2651"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3538
+}

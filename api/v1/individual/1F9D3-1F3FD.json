@@ -1,0 +1,18 @@
+{
+  "id": "1F9D3-1F3FD",
+  "emoji": "🧓🏽",
+  "name": "older person: medium skin tone",
+  "codepoints": [
+    "U+1F9D3",
+    "U+1F3FD"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F9D3",
+  "status": "fully-qualified",
+  "order": 663
+}

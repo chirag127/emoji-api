@@ -1,0 +1,19 @@
+{
+  "id": "1F468-200D-1F37C",
+  "emoji": "👨‍🍼",
+  "name": "man feeding baby",
+  "codepoints": [
+    "U+1F468",
+    "U+200D",
+    "U+1F37C"
+  ],
+  "version": "13.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1338
+}

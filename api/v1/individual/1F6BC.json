@@ -1,0 +1,17 @@
+{
+  "id": "1F6BC",
+  "emoji": "🚼",
+  "name": "baby symbol",
+  "codepoints": [
+    "U+1F6BC"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "transport-sign",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3476
+}

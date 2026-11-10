@@ -1,0 +1,18 @@
+{
+  "id": "2702-FE0F",
+  "emoji": "✂️",
+  "name": "scissors",
+  "codepoints": [
+    "U+2702",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3383
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F697",
+  "emoji": "🚗",
+  "name": "automobile",
+  "codepoints": [
+    "U+1F697"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2984
+}

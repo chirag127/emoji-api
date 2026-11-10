@@ -1,0 +1,17 @@
+{
+  "id": "23EC",
+  "emoji": "⏬",
+  "name": "fast down button",
+  "codepoints": [
+    "U+23EC"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3555
+}

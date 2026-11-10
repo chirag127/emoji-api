@@ -1,0 +1,17 @@
+{
+  "id": "1F5FD",
+  "emoji": "🗽",
+  "name": "Statue of Liberty",
+  "codepoints": [
+    "U+1F5FD"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2938
+}

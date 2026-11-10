@@ -1,0 +1,18 @@
+{
+  "id": "1F933-1F3FD",
+  "emoji": "🤳🏽",
+  "name": "selfie: medium skin tone",
+  "codepoints": [
+    "U+1F933",
+    "U+1F3FD"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F933",
+  "status": "fully-qualified",
+  "order": 459
+}

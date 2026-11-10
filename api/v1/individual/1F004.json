@@ -1,0 +1,17 @@
+{
+  "id": "1F004",
+  "emoji": "🀄",
+  "name": "mahjong red dragon",
+  "codepoints": [
+    "U+1F004"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3192
+}

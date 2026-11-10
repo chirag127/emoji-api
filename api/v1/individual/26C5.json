@@ -1,0 +1,17 @@
+{
+  "id": "26C5",
+  "emoji": "⛅",
+  "name": "sun behind cloud",
+  "codepoints": [
+    "U+26C5"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3090
+}

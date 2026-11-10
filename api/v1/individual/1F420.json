@@ -1,0 +1,17 @@
+{
+  "id": "1F420",
+  "emoji": "🐠",
+  "name": "tropical fish",
+  "codepoints": [
+    "U+1F420"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2705
+}

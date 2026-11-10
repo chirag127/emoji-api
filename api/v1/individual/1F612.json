@@ -1,0 +1,17 @@
+{
+  "id": "1F612",
+  "emoji": "😒",
+  "name": "unamused face",
+  "codepoints": [
+    "U+1F612"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 45
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F471",
+  "emoji": "👱",
+  "name": "person: blond hair",
+  "codepoints": [
+    "U+1F471"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 540
+}

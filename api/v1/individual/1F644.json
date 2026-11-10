@@ -1,0 +1,17 @@
+{
+  "id": "1F644",
+  "emoji": "🙄",
+  "name": "face with rolling eyes",
+  "codepoints": [
+    "U+1F644"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 46
+}

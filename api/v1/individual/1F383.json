@@ -1,0 +1,17 @@
+{
+  "id": "1F383",
+  "emoji": "🎃",
+  "name": "jack-o-lantern",
+  "codepoints": [
+    "U+1F383"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3116
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1F9CF-200D-2640-FE0F",
+  "emoji": "🧏‍♀️",
+  "name": "deaf woman",
+  "codepoints": [
+    "U+1F9CF",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 798
+}

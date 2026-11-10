@@ -1,0 +1,17 @@
+{
+  "id": "1F9FF",
+  "emoji": "🧿",
+  "name": "nazar amulet",
+  "codepoints": [
+    "U+1F9FF"
+  ],
+  "version": "11.0",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3464
+}

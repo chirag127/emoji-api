@@ -1,0 +1,17 @@
+{
+  "id": "1F49F",
+  "emoji": "💟",
+  "name": "heart decoration",
+  "codepoints": [
+    "U+1F49F"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 140
+}

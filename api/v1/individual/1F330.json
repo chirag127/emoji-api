@@ -1,0 +1,17 @@
+{
+  "id": "1F330",
+  "emoji": "🌰",
+  "name": "chestnut",
+  "codepoints": [
+    "U+1F330"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2798
+}

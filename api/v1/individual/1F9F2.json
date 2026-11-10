@@ -1,0 +1,17 @@
+{
+  "id": "1F9F2",
+  "emoji": "🧲",
+  "name": "magnet",
+  "codepoints": [
+    "U+1F9F2"
+  ],
+  "version": "11.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3418
+}

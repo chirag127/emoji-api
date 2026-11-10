@@ -1,0 +1,17 @@
+{
+  "id": "1F538",
+  "emoji": "🔸",
+  "name": "small orange diamond",
+  "codepoints": [
+    "U+1F538"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "geometric",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3685
+}

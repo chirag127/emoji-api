@@ -1,0 +1,17 @@
+{
+  "id": "1F485",
+  "emoji": "💅",
+  "name": "nail polish",
+  "codepoints": [
+    "U+1F485"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 450
+}

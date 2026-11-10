@@ -1,0 +1,18 @@
+{
+  "id": "269B-FE0F",
+  "emoji": "⚛️",
+  "name": "atom symbol",
+  "codepoints": [
+    "U+269B",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Symbols",
+  "subgroup": "religion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3517
+}

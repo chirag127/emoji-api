@@ -1,0 +1,17 @@
+{
+  "id": "1F239",
+  "emoji": "🈹",
+  "name": "Japanese “discount” button",
+  "codepoints": [
+    "U+1F239"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "alphanum",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3648
+}

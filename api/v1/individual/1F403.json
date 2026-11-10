@@ -1,0 +1,17 @@
+{
+  "id": "1F403",
+  "emoji": "🐃",
+  "name": "water buffalo",
+  "codepoints": [
+    "U+1F403"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2631
+}

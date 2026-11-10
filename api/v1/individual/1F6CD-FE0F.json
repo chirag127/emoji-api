@@ -1,0 +1,18 @@
+{
+  "id": "1F6CD-FE0F",
+  "emoji": "🛍️",
+  "name": "shopping bags",
+  "codepoints": [
+    "U+1F6CD",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3225
+}

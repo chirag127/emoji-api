@@ -1,0 +1,17 @@
+{
+  "id": "1F688",
+  "emoji": "🚈",
+  "name": "light rail",
+  "codepoints": [
+    "U+1F688"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2968
+}

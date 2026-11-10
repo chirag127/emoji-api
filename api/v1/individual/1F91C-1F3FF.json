@@ -1,0 +1,18 @@
+{
+  "id": "1F91C-1F3FF",
+  "emoji": "🤜🏿",
+  "name": "right-facing fist: dark skin tone",
+  "codepoints": [
+    "U+1F91C",
+    "U+1F3FF"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F91C",
+  "status": "fully-qualified",
+  "order": 381
+}

@@ -1,0 +1,17 @@
+{
+  "id": "267F",
+  "emoji": "♿",
+  "name": "wheelchair symbol",
+  "codepoints": [
+    "U+267F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "transport-sign",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3472
+}

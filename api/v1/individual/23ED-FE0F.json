@@ -1,0 +1,18 @@
+{
+  "id": "23ED-FE0F",
+  "emoji": "⏭️",
+  "name": "next track button",
+  "codepoints": [
+    "U+23ED",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3547
+}

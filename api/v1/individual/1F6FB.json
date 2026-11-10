@@ -1,0 +1,17 @@
+{
+  "id": "1F6FB",
+  "emoji": "🛻",
+  "name": "pickup truck",
+  "codepoints": [
+    "U+1F6FB"
+  ],
+  "version": "13.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2987
+}

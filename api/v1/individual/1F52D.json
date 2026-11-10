@@ -1,0 +1,17 @@
+{
+  "id": "1F52D",
+  "emoji": "🔭",
+  "name": "telescope",
+  "codepoints": [
+    "U+1F52D"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "science",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3426
+}

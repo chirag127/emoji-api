@@ -1,0 +1,17 @@
+{
+  "id": "1FAC1",
+  "emoji": "🫁",
+  "name": "lungs",
+  "codepoints": [
+    "U+1FAC1"
+  ],
+  "version": "13.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 502
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FA94",
+  "emoji": "🪔",
+  "name": "diya lamp",
+  "codepoints": [
+    "U+1FA94"
+  ],
+  "version": "12.0",
+  "group": "Objects",
+  "subgroup": "light & video",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3314
+}

@@ -1,0 +1,17 @@
+{
+  "id": "270A",
+  "emoji": "✊",
+  "name": "raised fist",
+  "codepoints": [
+    "U+270A"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 358
+}

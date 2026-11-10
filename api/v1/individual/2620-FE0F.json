@@ -1,0 +1,18 @@
+{
+  "id": "2620-FE0F",
+  "emoji": "☠️",
+  "name": "skull and crossbones",
+  "codepoints": [
+    "U+2620",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 111
+}

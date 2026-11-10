@@ -1,0 +1,18 @@
+{
+  "id": "1F477-1F3FB",
+  "emoji": "👷🏻",
+  "name": "construction worker: light skin tone",
+  "codepoints": [
+    "U+1F477",
+    "U+1F3FB"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F477",
+  "status": "fully-qualified",
+  "order": 1207
+}

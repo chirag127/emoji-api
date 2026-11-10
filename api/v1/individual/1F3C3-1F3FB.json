@@ -1,0 +1,18 @@
+{
+  "id": "1F3C3-1F3FB",
+  "emoji": "🏃🏻",
+  "name": "person running: light skin tone",
+  "codepoints": [
+    "U+1F3C3",
+    "U+1F3FB"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F3C3",
+  "status": "fully-qualified",
+  "order": 1743
+}

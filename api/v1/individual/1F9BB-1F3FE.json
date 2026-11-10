@@ -1,0 +1,18 @@
+{
+  "id": "1F9BB-1F3FE",
+  "emoji": "🦻🏾",
+  "name": "ear with hearing aid: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9BB",
+    "U+1F3FE"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9BB",
+  "status": "fully-qualified",
+  "order": 492
+}

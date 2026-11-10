@@ -1,0 +1,17 @@
+{
+  "id": "1F552",
+  "emoji": "🕒",
+  "name": "three o’clock",
+  "codepoints": [
+    "U+1F552"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3050
+}

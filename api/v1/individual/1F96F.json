@@ -1,0 +1,17 @@
+{
+  "id": "1F96F",
+  "emoji": "🥯",
+  "name": "bagel",
+  "codepoints": [
+    "U+1F96F"
+  ],
+  "version": "11.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2808
+}

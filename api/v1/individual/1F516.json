@@ -1,0 +1,17 @@
+{
+  "id": "1F516",
+  "emoji": "🔖",
+  "name": "bookmark",
+  "codepoints": [
+    "U+1F516"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "book-paper",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3330
+}

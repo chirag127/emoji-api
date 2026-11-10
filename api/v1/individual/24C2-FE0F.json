@@ -1,0 +1,18 @@
+{
+  "id": "24C2-FE0F",
+  "emoji": "Ⓜ️",
+  "name": "circled M",
+  "codepoints": [
+    "U+24C2",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "alphanum",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3633
+}

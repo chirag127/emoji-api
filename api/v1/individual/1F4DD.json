@@ -1,0 +1,17 @@
+{
+  "id": "1F4DD",
+  "emoji": "📝",
+  "name": "memo",
+  "codepoints": [
+    "U+1F4DD"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "writing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3362
+}

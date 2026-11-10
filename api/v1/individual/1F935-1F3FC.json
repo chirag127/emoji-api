@@ -1,0 +1,18 @@
+{
+  "id": "1F935-1F3FC",
+  "emoji": "🤵🏼",
+  "name": "person in tuxedo: medium-light skin tone",
+  "codepoints": [
+    "U+1F935",
+    "U+1F3FC"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F935",
+  "status": "fully-qualified",
+  "order": 1274
+}

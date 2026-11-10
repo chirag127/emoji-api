@@ -1,0 +1,17 @@
+{
+  "id": "1F637",
+  "emoji": "😷",
+  "name": "face with medical mask",
+  "codepoints": [
+    "U+1F637"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 59
+}

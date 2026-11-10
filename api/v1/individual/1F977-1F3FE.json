@@ -1,0 +1,18 @@
+{
+  "id": "1F977-1F3FE",
+  "emoji": "🥷🏾",
+  "name": "ninja: medium-dark skin tone",
+  "codepoints": [
+    "U+1F977",
+    "U+1F3FE"
+  ],
+  "version": "13.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F977",
+  "status": "fully-qualified",
+  "order": 1204
+}

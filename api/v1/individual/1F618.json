@@ -1,0 +1,17 @@
+{
+  "id": "1F618",
+  "emoji": "😘",
+  "name": "face blowing a kiss",
+  "codepoints": [
+    "U+1F618"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-affection",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 18
+}

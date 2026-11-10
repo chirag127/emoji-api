@@ -1,0 +1,18 @@
+{
+  "id": "261D-1F3FE",
+  "emoji": "☝🏾",
+  "name": "index pointing up: medium-dark skin tone",
+  "codepoints": [
+    "U+261D",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "261D-FE0F",
+  "status": "fully-qualified",
+  "order": 326
+}

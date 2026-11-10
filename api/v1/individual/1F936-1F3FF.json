@@ -1,0 +1,18 @@
+{
+  "id": "1F936-1F3FF",
+  "emoji": "🤶🏿",
+  "name": "Mrs. Claus: dark skin tone",
+  "codepoints": [
+    "U+1F936",
+    "U+1F3FF"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F936",
+  "status": "fully-qualified",
+  "order": 1367
+}

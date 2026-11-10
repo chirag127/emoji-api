@@ -1,0 +1,17 @@
+{
+  "id": "1FAD0",
+  "emoji": "🫐",
+  "name": "blueberries",
+  "codepoints": [
+    "U+1FAD0"
+  ],
+  "version": "13.0",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2778
+}

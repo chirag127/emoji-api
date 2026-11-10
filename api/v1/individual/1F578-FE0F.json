@@ -1,0 +1,18 @@
+{
+  "id": "1F578-FE0F",
+  "emoji": "🕸️",
+  "name": "spider web",
+  "codepoints": [
+    "U+1F578",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2728
+}

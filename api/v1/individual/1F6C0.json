@@ -1,0 +1,17 @@
+{
+  "id": "1F6C0",
+  "emoji": "🛀",
+  "name": "person taking bath",
+  "codepoints": [
+    "U+1F6C0"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-resting",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2242
+}

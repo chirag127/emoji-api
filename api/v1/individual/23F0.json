@@ -1,0 +1,17 @@
+{
+  "id": "23F0",
+  "emoji": "⏰",
+  "name": "alarm clock",
+  "codepoints": [
+    "U+23F0"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3040
+}

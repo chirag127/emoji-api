@@ -1,0 +1,17 @@
+{
+  "id": "1F43A",
+  "emoji": "🐺",
+  "name": "wolf",
+  "codepoints": [
+    "U+1F43A"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2611
+}

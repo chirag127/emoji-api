@@ -1,0 +1,17 @@
+{
+  "id": "1F968",
+  "emoji": "🥨",
+  "name": "pretzel",
+  "codepoints": [
+    "U+1F968"
+  ],
+  "version": "5.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2807
+}

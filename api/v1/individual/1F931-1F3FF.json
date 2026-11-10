@@ -1,0 +1,18 @@
+{
+  "id": "1F931-1F3FF",
+  "emoji": "🤱🏿",
+  "name": "breast-feeding: dark skin tone",
+  "codepoints": [
+    "U+1F931",
+    "U+1F3FF"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F931",
+  "status": "fully-qualified",
+  "order": 1331
+}

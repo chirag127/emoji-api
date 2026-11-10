@@ -1,0 +1,17 @@
+{
+  "id": "1F482",
+  "emoji": "💂",
+  "name": "guard",
+  "codepoints": [
+    "U+1F482"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1182
+}

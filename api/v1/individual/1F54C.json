@@ -1,0 +1,17 @@
+{
+  "id": "1F54C",
+  "emoji": "🕌",
+  "name": "mosque",
+  "codepoints": [
+    "U+1F54C"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "place-religious",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2940
+}

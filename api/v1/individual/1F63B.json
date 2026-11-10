@@ -1,0 +1,17 @@
+{
+  "id": "1F63B",
+  "emoji": "😻",
+  "name": "smiling cat with heart-eyes",
+  "codepoints": [
+    "U+1F63B"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "cat-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 123
+}

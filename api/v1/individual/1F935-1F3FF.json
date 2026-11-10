@@ -1,0 +1,18 @@
+{
+  "id": "1F935-1F3FF",
+  "emoji": "🤵🏿",
+  "name": "person in tuxedo: dark skin tone",
+  "codepoints": [
+    "U+1F935",
+    "U+1F3FF"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F935",
+  "status": "fully-qualified",
+  "order": 1277
+}

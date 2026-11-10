@@ -1,0 +1,17 @@
+{
+  "id": "1F4C1",
+  "emoji": "📁",
+  "name": "file folder",
+  "codepoints": [
+    "U+1F4C1"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3365
+}

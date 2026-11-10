@@ -1,0 +1,17 @@
+{
+  "id": "1F6BF",
+  "emoji": "🚿",
+  "name": "shower",
+  "codepoints": [
+    "U+1F6BF"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3444
+}

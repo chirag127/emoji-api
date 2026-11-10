@@ -1,0 +1,17 @@
+{
+  "id": "1FAB0",
+  "emoji": "🪰",
+  "name": "fly",
+  "codepoints": [
+    "U+1FAB0"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2731
+}

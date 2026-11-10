@@ -1,0 +1,17 @@
+{
+  "id": "1F315",
+  "emoji": "🌕",
+  "name": "full moon",
+  "codepoints": [
+    "U+1F315"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3072
+}

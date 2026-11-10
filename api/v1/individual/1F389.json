@@ -1,0 +1,17 @@
+{
+  "id": "1F389",
+  "emoji": "🎉",
+  "name": "party popper",
+  "codepoints": [
+    "U+1F389"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3123
+}

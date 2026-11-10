@@ -1,0 +1,17 @@
+{
+  "id": "2B50",
+  "emoji": "⭐",
+  "name": "star",
+  "codepoints": [
+    "U+2B50"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3085
+}

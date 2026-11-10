@@ -1,0 +1,17 @@
+{
+  "id": "1F9D8",
+  "emoji": "🧘",
+  "name": "person in lotus position",
+  "codepoints": [
+    "U+1F9D8"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-resting",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2224
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F352",
+  "emoji": "🍒",
+  "name": "cherries",
+  "codepoints": [
+    "U+1F352"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2776
+}

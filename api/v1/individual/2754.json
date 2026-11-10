@@ -1,0 +1,17 @@
+{
+  "id": "2754",
+  "emoji": "❔",
+  "name": "white question mark",
+  "codepoints": [
+    "U+2754"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "punctuation",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3579
+}

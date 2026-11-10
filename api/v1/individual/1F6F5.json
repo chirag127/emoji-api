@@ -1,0 +1,17 @@
+{
+  "id": "1F6F5",
+  "emoji": "🛵",
+  "name": "motor scooter",
+  "codepoints": [
+    "U+1F6F5"
+  ],
+  "version": "3.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2993
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F4EB",
+  "emoji": "📫",
+  "name": "closed mailbox with raised flag",
+  "codepoints": [
+    "U+1F4EB"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3350
+}

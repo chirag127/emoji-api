@@ -1,0 +1,21 @@
+{
+  "id": "1F3CB-1F3FB-200D-2640-FE0F",
+  "emoji": "🏋🏻‍♀️",
+  "name": "woman lifting weights: light skin tone",
+  "codepoints": [
+    "U+1F3CB",
+    "U+1F3FB",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F3CB-FE0F-200D-2640-FE0F",
+  "status": "fully-qualified",
+  "order": 2033
+}

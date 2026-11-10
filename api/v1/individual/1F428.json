@@ -1,0 +1,17 @@
+{
+  "id": "1F428",
+  "emoji": "🐨",
+  "name": "koala",
+  "codepoints": [
+    "U+1F428"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2660
+}

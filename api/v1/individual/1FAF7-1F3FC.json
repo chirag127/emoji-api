@@ -1,0 +1,18 @@
+{
+  "id": "1FAF7-1F3FC",
+  "emoji": "🫷🏼",
+  "name": "leftwards pushing hand: medium-light skin tone",
+  "codepoints": [
+    "U+1FAF7",
+    "U+1F3FC"
+  ],
+  "version": "15.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1FAF7",
+  "status": "fully-qualified",
+  "order": 228
+}

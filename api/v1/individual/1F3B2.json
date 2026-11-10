@@ -1,0 +1,17 @@
+{
+  "id": "1F3B2",
+  "emoji": "🎲",
+  "name": "game die",
+  "codepoints": [
+    "U+1F3B2"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3180
+}

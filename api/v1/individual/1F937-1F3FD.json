@@ -1,0 +1,18 @@
+{
+  "id": "1F937-1F3FD",
+  "emoji": "🤷🏽",
+  "name": "person shrugging: medium skin tone",
+  "codepoints": [
+    "U+1F937",
+    "U+1F3FD"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F937",
+  "status": "fully-qualified",
+  "order": 843
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1F426-200D-2B1B",
+  "emoji": "🐦‍⬛",
+  "name": "black bird",
+  "codepoints": [
+    "U+1F426",
+    "U+200D",
+    "U+2B1B"
+  ],
+  "version": "15.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2687
+}

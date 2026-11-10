@@ -1,0 +1,18 @@
+{
+  "id": "1F3DE-FE0F",
+  "emoji": "🏞️",
+  "name": "national park",
+  "codepoints": [
+    "U+1F3DE",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "place-geographic",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2911
+}

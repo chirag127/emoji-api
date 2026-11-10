@@ -1,0 +1,18 @@
+{
+  "id": "25C0-FE0F",
+  "emoji": "◀️",
+  "name": "reverse button",
+  "codepoints": [
+    "U+25C0",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3549
+}

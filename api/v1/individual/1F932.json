@@ -1,0 +1,17 @@
+{
+  "id": "1F932",
+  "emoji": "🤲",
+  "name": "palms up together",
+  "codepoints": [
+    "U+1F932"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 406
+}

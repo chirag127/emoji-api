@@ -1,0 +1,17 @@
+{
+  "id": "1F3A1",
+  "emoji": "🎡",
+  "name": "ferris wheel",
+  "codepoints": [
+    "U+1F3A1"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2958
+}

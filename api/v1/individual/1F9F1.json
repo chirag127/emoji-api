@@ -1,0 +1,17 @@
+{
+  "id": "1F9F1",
+  "emoji": "🧱",
+  "name": "brick",
+  "codepoints": [
+    "U+1F9F1"
+  ],
+  "version": "11.0",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2915
+}

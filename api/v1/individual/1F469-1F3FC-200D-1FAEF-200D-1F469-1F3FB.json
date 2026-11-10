@@ -1,0 +1,23 @@
+{
+  "id": "1F469-1F3FC-200D-1FAEF-200D-1F469-1F3FB",
+  "emoji": "👩🏼‍🫯‍👩🏻",
+  "name": "women wrestling: medium-light skin tone, light skin tone",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+1FAEF",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+  ],
+  "version": "17.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2154
+}

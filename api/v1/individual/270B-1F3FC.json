@@ -1,0 +1,18 @@
+{
+  "id": "270B-1F3FC",
+  "emoji": "✋🏼",
+  "name": "raised hand: medium-light skin tone",
+  "codepoints": [
+    "U+270B",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "270B",
+  "status": "fully-qualified",
+  "order": 192
+}

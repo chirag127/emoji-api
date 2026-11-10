@@ -1,0 +1,18 @@
+{
+  "id": "1F1FA-1F1FF",
+  "emoji": "🇺🇿",
+  "name": "flag: Uzbekistan",
+  "codepoints": [
+    "U+1F1FA",
+    "U+1F1FF"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3944
+}

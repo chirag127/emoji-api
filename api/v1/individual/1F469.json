@@ -1,0 +1,17 @@
+{
+  "id": "1F469",
+  "emoji": "👩",
+  "name": "woman",
+  "codepoints": [
+    "U+1F469"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 594
+}

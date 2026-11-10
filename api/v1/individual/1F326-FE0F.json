@@ -1,0 +1,18 @@
+{
+  "id": "1F326-FE0F",
+  "emoji": "🌦️",
+  "name": "sun behind rain cloud",
+  "codepoints": [
+    "U+1F326",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3094
+}

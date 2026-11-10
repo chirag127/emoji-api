@@ -1,0 +1,17 @@
+{
+  "id": "2757",
+  "emoji": "❗",
+  "name": "red exclamation mark",
+  "codepoints": [
+    "U+2757"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "punctuation",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3581
+}

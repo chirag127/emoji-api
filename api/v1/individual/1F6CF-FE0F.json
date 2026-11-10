@@ -1,0 +1,18 @@
+{
+  "id": "1F6CF-FE0F",
+  "emoji": "🛏️",
+  "name": "bed",
+  "codepoints": [
+    "U+1F6CF",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3439
+}

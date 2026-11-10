@@ -1,0 +1,18 @@
+{
+  "id": "1F6CE-FE0F",
+  "emoji": "🛎️",
+  "name": "bellhop bell",
+  "codepoints": [
+    "U+1F6CE",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "hotel",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3035
+}

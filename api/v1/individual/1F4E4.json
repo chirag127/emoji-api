@@ -1,0 +1,17 @@
+{
+  "id": "1F4E4",
+  "emoji": "📤",
+  "name": "outbox tray",
+  "codepoints": [
+    "U+1F4E4"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3347
+}

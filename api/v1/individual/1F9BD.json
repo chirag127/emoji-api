@@ -1,0 +1,17 @@
+{
+  "id": "1F9BD",
+  "emoji": "🦽",
+  "name": "manual wheelchair",
+  "codepoints": [
+    "U+1F9BD"
+  ],
+  "version": "12.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2994
+}

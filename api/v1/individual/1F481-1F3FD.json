@@ -1,0 +1,18 @@
+{
+  "id": "1F481-1F3FD",
+  "emoji": "💁🏽",
+  "name": "person tipping hand: medium skin tone",
+  "codepoints": [
+    "U+1F481",
+    "U+1F3FD"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F481",
+  "status": "fully-qualified",
+  "order": 753
+}

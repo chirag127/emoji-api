@@ -1,0 +1,21 @@
+{
+  "id": "1F64D-1F3FE-200D-2642-FE0F",
+  "emoji": "🙍🏾‍♂️",
+  "name": "man frowning: medium-dark skin tone",
+  "codepoints": [
+    "U+1F64D",
+    "U+1F3FE",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F64D-200D-2642-FE0F",
+  "status": "fully-qualified",
+  "order": 688
+}

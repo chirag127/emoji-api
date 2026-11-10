@@ -1,0 +1,18 @@
+{
+  "id": "1F9B5-1F3FE",
+  "emoji": "🦵🏾",
+  "name": "leg: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9B5",
+    "U+1F3FE"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9B5",
+  "status": "fully-qualified",
+  "order": 474
+}

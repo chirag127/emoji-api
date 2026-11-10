@@ -1,0 +1,17 @@
+{
+  "id": "1F3C1",
+  "emoji": "🏁",
+  "name": "chequered flag",
+  "codepoints": [
+    "U+1F3C1"
+  ],
+  "version": "0.6",
+  "group": "Flags",
+  "subgroup": "flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3693
+}

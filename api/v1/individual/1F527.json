@@ -1,0 +1,17 @@
+{
+  "id": "1F527",
+  "emoji": "🔧",
+  "name": "wrench",
+  "codepoints": [
+    "U+1F527"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3406
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAA7",
+  "emoji": "🪧",
+  "name": "placard",
+  "codepoints": [
+    "U+1FAA7"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3467
+}

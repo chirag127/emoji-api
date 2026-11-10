@@ -1,0 +1,17 @@
+{
+  "id": "1F416",
+  "emoji": "🐖",
+  "name": "pig",
+  "codepoints": [
+    "U+1F416"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2634
+}

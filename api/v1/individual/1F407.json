@@ -1,0 +1,17 @@
+{
+  "id": "1F407",
+  "emoji": "🐇",
+  "name": "rabbit",
+  "codepoints": [
+    "U+1F407"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2653
+}

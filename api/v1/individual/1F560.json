@@ -1,0 +1,17 @@
+{
+  "id": "1F560",
+  "emoji": "🕠",
+  "name": "five-thirty",
+  "codepoints": [
+    "U+1F560"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3055
+}

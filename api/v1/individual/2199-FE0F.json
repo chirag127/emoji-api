@@ -1,0 +1,18 @@
+{
+  "id": "2199-FE0F",
+  "emoji": "↙️",
+  "name": "down-left arrow",
+  "codepoints": [
+    "U+2199",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "arrow",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3500
+}

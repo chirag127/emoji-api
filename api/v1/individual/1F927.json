@@ -1,0 +1,17 @@
+{
+  "id": "1F927",
+  "emoji": "🤧",
+  "name": "sneezing face",
+  "codepoints": [
+    "U+1F927"
+  ],
+  "version": "3.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 64
+}

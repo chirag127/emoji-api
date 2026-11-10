@@ -1,0 +1,18 @@
+{
+  "id": "1F934-1F3FE",
+  "emoji": "🤴🏾",
+  "name": "prince: medium-dark skin tone",
+  "codepoints": [
+    "U+1F934",
+    "U+1F3FE"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F934",
+  "status": "fully-qualified",
+  "order": 1234
+}

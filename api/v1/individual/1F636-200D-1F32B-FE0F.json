@@ -1,0 +1,20 @@
+{
+  "id": "1F636-200D-1F32B-FE0F",
+  "emoji": "😶‍🌫️",
+  "name": "face in clouds",
+  "codepoints": [
+    "U+1F636",
+    "U+200D",
+    "U+1F32B",
+    "U+FE0F"
+  ],
+  "version": "13.1",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 43
+}

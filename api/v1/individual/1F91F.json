@@ -1,0 +1,17 @@
+{
+  "id": "1F91F",
+  "emoji": "🤟",
+  "name": "love-you gesture",
+  "codepoints": [
+    "U+1F91F"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 274
+}

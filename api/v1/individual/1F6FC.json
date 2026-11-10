@@ -1,0 +1,17 @@
+{
+  "id": "1F6FC",
+  "emoji": "🛼",
+  "name": "roller skate",
+  "codepoints": [
+    "U+1F6FC"
+  ],
+  "version": "13.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3000
+}

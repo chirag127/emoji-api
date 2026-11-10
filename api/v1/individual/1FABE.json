@@ -1,0 +1,17 @@
+{
+  "id": "1FABE",
+  "emoji": "🪾",
+  "name": "leafless tree",
+  "codepoints": [
+    "U+1FABE"
+  ],
+  "version": "16.0",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2762
+}

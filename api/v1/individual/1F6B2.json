@@ -1,0 +1,17 @@
+{
+  "id": "1F6B2",
+  "emoji": "🚲",
+  "name": "bicycle",
+  "codepoints": [
+    "U+1F6B2"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2997
+}

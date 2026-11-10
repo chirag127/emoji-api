@@ -1,0 +1,19 @@
+{
+  "id": "1F408-200D-2B1B",
+  "emoji": "🐈‍⬛",
+  "name": "black cat",
+  "codepoints": [
+    "U+1F408",
+    "U+200D",
+    "U+2B1B"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2616
+}

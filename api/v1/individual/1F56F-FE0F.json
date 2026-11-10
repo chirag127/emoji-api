@@ -1,0 +1,18 @@
+{
+  "id": "1F56F-FE0F",
+  "emoji": "🕯️",
+  "name": "candle",
+  "codepoints": [
+    "U+1F56F",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "light & video",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3310
+}

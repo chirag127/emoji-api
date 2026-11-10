@@ -1,0 +1,18 @@
+{
+  "id": "1F1F4-1F1F2",
+  "emoji": "🇴🇲",
+  "name": "flag: Oman",
+  "codepoints": [
+    "U+1F1F4",
+    "U+1F1F2"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3879
+}

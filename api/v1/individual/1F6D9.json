@@ -1,0 +1,17 @@
+{
+  "id": "1F6D9",
+  "emoji": "🛙",
+  "name": "lighthouse",
+  "codepoints": [
+    "U+1F6D9"
+  ],
+  "version": "18.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-water",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3012
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F480",
+  "emoji": "💀",
+  "name": "skull",
+  "codepoints": [
+    "U+1F480"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 110
+}

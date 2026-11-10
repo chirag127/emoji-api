@@ -1,0 +1,17 @@
+{
+  "id": "1F685",
+  "emoji": "🚅",
+  "name": "bullet train",
+  "codepoints": [
+    "U+1F685"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2965
+}

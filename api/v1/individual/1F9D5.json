@@ -1,0 +1,17 @@
+{
+  "id": "1F9D5",
+  "emoji": "🧕",
+  "name": "woman with headscarf",
+  "codepoints": [
+    "U+1F9D5"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1266
+}

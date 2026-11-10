@@ -1,0 +1,17 @@
+{
+  "id": "1FABD",
+  "emoji": "🪽",
+  "name": "wing",
+  "codepoints": [
+    "U+1FABD"
+  ],
+  "version": "15.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2686
+}

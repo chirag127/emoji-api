@@ -1,0 +1,17 @@
+{
+  "id": "1F99C",
+  "emoji": "🦜",
+  "name": "parrot",
+  "codepoints": [
+    "U+1F99C"
+  ],
+  "version": "11.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2685
+}

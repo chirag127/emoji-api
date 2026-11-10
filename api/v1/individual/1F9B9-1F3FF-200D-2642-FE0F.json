@@ -1,0 +1,21 @@
+{
+  "id": "1F9B9-1F3FF-200D-2642-FE0F",
+  "emoji": "🦹🏿‍♂️",
+  "name": "man supervillain: dark skin tone",
+  "codepoints": [
+    "U+1F9B9",
+    "U+1F3FF",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F9B9-200D-2642-FE0F",
+  "status": "fully-qualified",
+  "order": 1403
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F9E8",
+  "emoji": "🧨",
+  "name": "firecracker",
+  "codepoints": [
+    "U+1F9E8"
+  ],
+  "version": "11.0",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3120
+}

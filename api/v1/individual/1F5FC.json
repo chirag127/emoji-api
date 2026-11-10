@@ -1,0 +1,17 @@
+{
+  "id": "1F5FC",
+  "emoji": "🗼",
+  "name": "Tokyo tower",
+  "codepoints": [
+    "U+1F5FC"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2937
+}

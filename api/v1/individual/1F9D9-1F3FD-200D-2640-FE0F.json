@@ -1,0 +1,21 @@
+{
+  "id": "1F9D9-1F3FD-200D-2640-FE0F",
+  "emoji": "🧙🏽‍♀️",
+  "name": "woman mage: medium skin tone",
+  "codepoints": [
+    "U+1F9D9",
+    "U+1F3FD",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F9D9-200D-2640-FE0F",
+  "status": "fully-qualified",
+  "order": 1425
+}

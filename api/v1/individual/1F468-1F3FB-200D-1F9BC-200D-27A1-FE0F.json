@@ -1,0 +1,23 @@
+{
+  "id": "1F468-1F3FB-200D-1F9BC-200D-27A1-FE0F",
+  "emoji": "👨🏻‍🦼‍➡️",
+  "name": "man in motorized wheelchair facing right: light skin tone",
+  "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+1F9BC",
+    "U+200D",
+    "U+27A1",
+    "U+FE0F"
+  ],
+  "version": "15.1",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F468-200D-1F9BC-200D-27A1-FE0F",
+  "status": "fully-qualified",
+  "order": 1689
+}

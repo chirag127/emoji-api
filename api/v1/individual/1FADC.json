@@ -1,0 +1,17 @@
+{
+  "id": "1FADC",
+  "emoji": "🫜",
+  "name": "root vegetable",
+  "codepoints": [
+    "U+1FADC"
+  ],
+  "version": "16.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2802
+}

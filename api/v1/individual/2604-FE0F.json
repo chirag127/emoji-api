@@ -1,0 +1,18 @@
+{
+  "id": "2604-FE0F",
+  "emoji": "☄️",
+  "name": "comet",
+  "codepoints": [
+    "U+2604",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3111
+}

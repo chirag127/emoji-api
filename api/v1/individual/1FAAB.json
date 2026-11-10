@@ -1,0 +1,17 @@
+{
+  "id": "1FAAB",
+  "emoji": "🪫",
+  "name": "low battery",
+  "codepoints": [
+    "U+1FAAB"
+  ],
+  "version": "14.0",
+  "group": "Objects",
+  "subgroup": "computer",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3286
+}

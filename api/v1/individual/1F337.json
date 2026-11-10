@@ -1,0 +1,17 @@
+{
+  "id": "1F337",
+  "emoji": "🌷",
+  "name": "tulip",
+  "codepoints": [
+    "U+1F337"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "plant-flower",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2744
+}

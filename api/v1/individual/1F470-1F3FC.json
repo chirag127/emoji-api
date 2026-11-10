@@ -1,0 +1,18 @@
+{
+  "id": "1F470-1F3FC",
+  "emoji": "👰🏼",
+  "name": "person with veil: medium-light skin tone",
+  "codepoints": [
+    "U+1F470",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F470",
+  "status": "fully-qualified",
+  "order": 1292
+}

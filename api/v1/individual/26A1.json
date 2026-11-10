@@ -1,0 +1,17 @@
+{
+  "id": "26A1",
+  "emoji": "⚡",
+  "name": "high voltage",
+  "codepoints": [
+    "U+26A1"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3107
+}

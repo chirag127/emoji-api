@@ -1,0 +1,17 @@
+{
+  "id": "1FA81",
+  "emoji": "🪁",
+  "name": "kite",
+  "codepoints": [
+    "U+1FA81"
+  ],
+  "version": "12.0",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3172
+}

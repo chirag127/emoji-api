@@ -1,0 +1,17 @@
+{
+  "id": "1FA97",
+  "emoji": "🪗",
+  "name": "accordion",
+  "codepoints": [
+    "U+1FA97"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3269
+}

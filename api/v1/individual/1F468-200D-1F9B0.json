@@ -1,0 +1,19 @@
+{
+  "id": "1F468-200D-1F9B0",
+  "emoji": "👨‍🦰",
+  "name": "man: red hair",
+  "codepoints": [
+    "U+1F468",
+    "U+200D",
+    "U+1F9B0"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 570
+}

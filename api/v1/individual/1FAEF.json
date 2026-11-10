@@ -1,0 +1,17 @@
+{
+  "id": "1FAEF",
+  "emoji": "🫯",
+  "name": "fight cloud",
+  "codepoints": [
+    "U+1FAEF"
+  ],
+  "version": "17.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 160
+}

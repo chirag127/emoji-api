@@ -1,0 +1,20 @@
+{
+  "id": "1F9B9-200D-2642-FE0F",
+  "emoji": "🦹‍♂️",
+  "name": "man supervillain",
+  "codepoints": [
+    "U+1F9B9",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1398
+}

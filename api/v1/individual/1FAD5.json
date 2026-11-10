@@ -1,0 +1,17 @@
+{
+  "id": "1FAD5",
+  "emoji": "🫕",
+  "name": "fondue",
+  "codepoints": [
+    "U+1FAD5"
+  ],
+  "version": "13.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2830
+}

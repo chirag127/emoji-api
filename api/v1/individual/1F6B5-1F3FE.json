@@ -1,0 +1,18 @@
+{
+  "id": "1F6B5-1F3FE",
+  "emoji": "🚵🏾",
+  "name": "person mountain biking: medium-dark skin tone",
+  "codepoints": [
+    "U+1F6B5",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F6B5",
+  "status": "fully-qualified",
+  "order": 2060
+}

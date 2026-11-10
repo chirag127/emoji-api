@@ -1,0 +1,18 @@
+{
+  "id": "26B0-FE0F",
+  "emoji": "⚰️",
+  "name": "coffin",
+  "codepoints": [
+    "U+26B0",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3461
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F9E1",
+  "emoji": "🧡",
+  "name": "orange heart",
+  "codepoints": [
+    "U+1F9E1"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 147
+}

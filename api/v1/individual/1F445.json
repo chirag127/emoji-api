@@ -1,0 +1,17 @@
+{
+  "id": "1F445",
+  "emoji": "👅",
+  "name": "tongue",
+  "codepoints": [
+    "U+1F445"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 507
+}

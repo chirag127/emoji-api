@@ -1,0 +1,17 @@
+{
+  "id": "1F919",
+  "emoji": "🤙",
+  "name": "call me hand",
+  "codepoints": [
+    "U+1F919"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 286
+}

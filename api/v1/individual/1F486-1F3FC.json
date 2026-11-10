@@ -1,0 +1,18 @@
+{
+  "id": "1F486-1F3FC",
+  "emoji": "💆🏼",
+  "name": "person getting massage: medium-light skin tone",
+  "codepoints": [
+    "U+1F486",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F486",
+  "status": "fully-qualified",
+  "order": 1510
+}

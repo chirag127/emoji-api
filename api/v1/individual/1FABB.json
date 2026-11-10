@@ -1,0 +1,17 @@
+{
+  "id": "1FABB",
+  "emoji": "🪻",
+  "name": "hyacinth",
+  "codepoints": [
+    "U+1FABB"
+  ],
+  "version": "15.0",
+  "group": "Animals & Nature",
+  "subgroup": "plant-flower",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2745
+}

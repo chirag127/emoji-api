@@ -1,0 +1,18 @@
+{
+  "id": "1F1EF-1F1EA",
+  "emoji": "🇯🇪",
+  "name": "flag: Jersey",
+  "codepoints": [
+    "U+1F1EF",
+    "U+1F1EA"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3818
+}

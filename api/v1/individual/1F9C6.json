@@ -1,0 +1,17 @@
+{
+  "id": "1F9C6",
+  "emoji": "🧆",
+  "name": "falafel",
+  "codepoints": [
+    "U+1F9C6"
+  ],
+  "version": "12.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2825
+}

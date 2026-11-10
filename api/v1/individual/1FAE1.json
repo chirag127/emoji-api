@@ -1,0 +1,17 @@
+{
+  "id": "1FAE1",
+  "emoji": "🫡",
+  "name": "saluting face",
+  "codepoints": [
+    "U+1FAE1"
+  ],
+  "version": "14.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hand",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 36
+}

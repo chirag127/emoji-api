@@ -1,0 +1,17 @@
+{
+  "id": "1FA85",
+  "emoji": "🪅",
+  "name": "piñata",
+  "codepoints": [
+    "U+1FA85"
+  ],
+  "version": "13.0",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3183
+}

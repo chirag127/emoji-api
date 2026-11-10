@@ -1,0 +1,17 @@
+{
+  "id": "1F344",
+  "emoji": "🍄",
+  "name": "mushroom",
+  "codepoints": [
+    "U+1F344"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2761
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F9CF-1F3FB",
+  "emoji": "🧏🏻",
+  "name": "deaf person: light skin tone",
+  "codepoints": [
+    "U+1F9CF",
+    "U+1F3FB"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F9CF",
+  "status": "fully-qualified",
+  "order": 787
+}

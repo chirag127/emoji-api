@@ -1,0 +1,19 @@
+{
+  "id": "1F426-200D-1F525",
+  "emoji": "🐦‍🔥",
+  "name": "phoenix",
+  "codepoints": [
+    "U+1F426",
+    "U+200D",
+    "U+1F525"
+  ],
+  "version": "15.1",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2689
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1F469-200D-1F467",
+  "emoji": "👩‍👧",
+  "name": "family: woman, girl",
+  "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+1F467"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2588
+}

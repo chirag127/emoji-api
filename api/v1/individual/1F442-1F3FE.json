@@ -1,0 +1,18 @@
+{
+  "id": "1F442-1F3FE",
+  "emoji": "👂🏾",
+  "name": "ear: medium-dark skin tone",
+  "codepoints": [
+    "U+1F442",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F442",
+  "status": "fully-qualified",
+  "order": 486
+}

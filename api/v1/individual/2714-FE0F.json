@@ -1,0 +1,18 @@
+{
+  "id": "2714-FE0F",
+  "emoji": "✔️",
+  "name": "check mark",
+  "codepoints": [
+    "U+2714",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "other-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3594
+}

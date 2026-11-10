@@ -1,0 +1,17 @@
+{
+  "id": "1F648",
+  "emoji": "🙈",
+  "name": "see-no-evil monkey",
+  "codepoints": [
+    "U+1F648"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "monkey-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 129
+}

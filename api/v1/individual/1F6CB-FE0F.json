@@ -1,0 +1,18 @@
+{
+  "id": "1F6CB-FE0F",
+  "emoji": "🛋️",
+  "name": "couch and lamp",
+  "codepoints": [
+    "U+1F6CB",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3440
+}

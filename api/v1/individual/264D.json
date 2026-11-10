@@ -1,0 +1,17 @@
+{
+  "id": "264D",
+  "emoji": "♍",
+  "name": "Virgo",
+  "codepoints": [
+    "U+264D"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3534
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F617",
+  "emoji": "😗",
+  "name": "kissing face",
+  "codepoints": [
+    "U+1F617"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-affection",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 19
+}

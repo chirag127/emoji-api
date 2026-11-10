@@ -1,0 +1,17 @@
+{
+  "id": "27BF",
+  "emoji": "➿",
+  "name": "double curly loop",
+  "codepoints": [
+    "U+27BF"
+  ],
+  "version": "1.0",
+  "group": "Symbols",
+  "subgroup": "other-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3598
+}

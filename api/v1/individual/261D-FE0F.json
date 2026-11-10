@@ -1,0 +1,18 @@
+{
+  "id": "261D-FE0F",
+  "emoji": "☝️",
+  "name": "index pointing up",
+  "codepoints": [
+    "U+261D",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 322
+}

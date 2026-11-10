@@ -1,0 +1,17 @@
+{
+  "id": "1F44E",
+  "emoji": "👎",
+  "name": "thumbs down",
+  "codepoints": [
+    "U+1F44E"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 340
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F631",
+  "emoji": "😱",
+  "name": "face screaming in fear",
+  "codepoints": [
+    "U+1F631"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-concerned",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 96
+}

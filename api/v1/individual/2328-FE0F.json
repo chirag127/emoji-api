@@ -1,0 +1,18 @@
+{
+  "id": "2328-FE0F",
+  "emoji": "⌨️",
+  "name": "keyboard",
+  "codepoints": [
+    "U+2328",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "computer",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3291
+}

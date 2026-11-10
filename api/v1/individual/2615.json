@@ -1,0 +1,17 @@
+{
+  "id": "2615",
+  "emoji": "☕",
+  "name": "hot beverage",
+  "codepoints": [
+    "U+2615"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2870
+}

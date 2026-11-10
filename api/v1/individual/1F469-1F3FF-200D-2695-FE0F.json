@@ -1,0 +1,21 @@
+{
+  "id": "1F469-1F3FF-200D-2695-FE0F",
+  "emoji": "👩🏿‍⚕️",
+  "name": "woman health worker: dark skin tone",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2695",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F469-200D-2695-FE0F",
+  "status": "fully-qualified",
+  "order": 875
+}

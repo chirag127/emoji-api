@@ -1,0 +1,17 @@
+{
+  "id": "1FA96",
+  "emoji": "🪖",
+  "name": "military helmet",
+  "codepoints": [
+    "U+1FA96"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3242
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2728",
+  "emoji": "✨",
+  "name": "sparkles",
+  "codepoints": [
+    "U+2728"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3121
+}

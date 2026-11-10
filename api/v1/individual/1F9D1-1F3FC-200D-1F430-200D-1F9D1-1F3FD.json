@@ -1,0 +1,23 @@
+{
+  "id": "1F9D1-1F3FC-200D-1F430-200D-1F9D1-1F3FD",
+  "emoji": "🧑🏼‍🐰‍🧑🏽",
+  "name": "people with bunny ears: medium-light skin tone, medium skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+1F430",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FD"
+  ],
+  "version": "17.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1825
+}

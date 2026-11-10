@@ -1,0 +1,17 @@
+{
+  "id": "1FA98",
+  "emoji": "🪘",
+  "name": "long drum",
+  "codepoints": [
+    "U+1FA98"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3275
+}

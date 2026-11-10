@@ -1,0 +1,18 @@
+{
+  "id": "1F1F0-1F1F7",
+  "emoji": "🇰🇷",
+  "name": "flag: South Korea",
+  "codepoints": [
+    "U+1F1F0",
+    "U+1F1F7"
+  ],
+  "version": "0.6",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3829
+}

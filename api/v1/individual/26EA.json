@@ -1,0 +1,17 @@
+{
+  "id": "26EA",
+  "emoji": "⛪",
+  "name": "church",
+  "codepoints": [
+    "U+26EA"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-religious",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2939
+}

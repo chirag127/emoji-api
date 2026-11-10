@@ -1,0 +1,20 @@
+{
+  "id": "1F43B-200D-2744-FE0F",
+  "emoji": "🐻‍❄️",
+  "name": "polar bear",
+  "codepoints": [
+    "U+1F43B",
+    "U+200D",
+    "U+2744",
+    "U+FE0F"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2659
+}

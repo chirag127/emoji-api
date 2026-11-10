@@ -1,0 +1,18 @@
+{
+  "id": "1F450-1F3FD",
+  "emoji": "👐🏽",
+  "name": "open hands: medium skin tone",
+  "codepoints": [
+    "U+1F450",
+    "U+1F3FD"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F450",
+  "status": "fully-qualified",
+  "order": 403
+}

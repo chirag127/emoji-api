@@ -2,22 +2,75 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://chirag127.github.io/emoji/data/schema.json",
   "title": "Emoji Metadata",
-  "description": "Emoji with categories, keywords, versions, and skin tone support",
+  "description": "Every fully-qualified RGI emoji with its CLDR name, group, subgroup, Unicode emoji version, skin-tone support and hex codepoints.",
   "type": "array",
   "items": {
     "type": "object",
     "required": [
       "id",
-      "name"
+      "emoji",
+      "name",
+      "codepoints",
+      "version",
+      "group",
+      "subgroup",
+      "skinToneSupport"
     ],
     "properties": {
       "id": {
         "type": "string",
-        "description": "Unique identifier"
+        "description": "Hex codepoints joined with dashes, used as the record id"
+      },
+      "emoji": {
+        "type": "string",
+        "description": "The emoji itself"
       },
       "name": {
         "type": "string",
-        "description": "Display name"
+        "description": "CLDR short name"
+      },
+      "codepoints": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Hex codepoints"
+      },
+      "version": {
+        "type": "string",
+        "description": "Emoji version the emoji was introduced in"
+      },
+      "group": {
+        "type": "string",
+        "description": "CLDR group"
+      },
+      "subgroup": {
+        "type": "string",
+        "description": "CLDR subgroup"
+      },
+      "skinToneSupport": {
+        "type": "boolean",
+        "description": "True if the emoji takes a skin-tone modifier"
+      },
+      "skinToneVariants": {
+        "type": "integer",
+        "description": "Number of skin-tone variants published for this emoji"
+      },
+      "tone": {
+        "type": "string",
+        "description": "Skin tone of this record, when it is a tone variant"
+      },
+      "base": {
+        "type": "string",
+        "description": "Record id of the base emoji, when this record is a tone variant"
+      },
+      "status": {
+        "type": "string",
+        "description": "UTS #51 status of the form, always fully-qualified here"
+      },
+      "order": {
+        "type": "integer",
+        "description": "Position in CLDR order"
       }
     }
   }

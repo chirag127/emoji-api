@@ -1,0 +1,19 @@
+{
+  "id": "1F344-200D-1F7EB",
+  "emoji": "🍄‍🟫",
+  "name": "brown mushroom",
+  "codepoints": [
+    "U+1F344",
+    "U+200D",
+    "U+1F7EB"
+  ],
+  "version": "15.1",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2801
+}

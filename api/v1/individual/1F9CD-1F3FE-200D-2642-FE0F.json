@@ -1,0 +1,21 @@
+{
+  "id": "1F9CD-1F3FE-200D-2642-FE0F",
+  "emoji": "🧍🏾‍♂️",
+  "name": "man standing: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9CD",
+    "U+1F3FE",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9CD-200D-2642-FE0F",
+  "status": "fully-qualified",
+  "order": 1590
+}

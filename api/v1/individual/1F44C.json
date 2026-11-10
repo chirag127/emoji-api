@@ -1,0 +1,17 @@
+{
+  "id": "1F44C",
+  "emoji": "👌",
+  "name": "OK hand",
+  "codepoints": [
+    "U+1F44C"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 238
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F401",
+  "emoji": "🐁",
+  "name": "mouse",
+  "codepoints": [
+    "U+1F401"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2649
+}

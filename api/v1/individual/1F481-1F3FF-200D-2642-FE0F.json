@@ -1,0 +1,21 @@
+{
+  "id": "1F481-1F3FF-200D-2642-FE0F",
+  "emoji": "💁🏿‍♂️",
+  "name": "man tipping hand: dark skin tone",
+  "codepoints": [
+    "U+1F481",
+    "U+1F3FF",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F481-200D-2642-FE0F",
+  "status": "fully-qualified",
+  "order": 761
+}

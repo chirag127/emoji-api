@@ -1,0 +1,18 @@
+{
+  "id": "1FAC5-1F3FC",
+  "emoji": "🫅🏼",
+  "name": "person with crown: medium-light skin tone",
+  "codepoints": [
+    "U+1FAC5",
+    "U+1F3FC"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1FAC5",
+  "status": "fully-qualified",
+  "order": 1226
+}

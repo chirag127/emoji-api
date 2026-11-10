@@ -1,0 +1,17 @@
+{
+  "id": "1FAA3",
+  "emoji": "🪣",
+  "name": "bucket",
+  "codepoints": [
+    "U+1FAA3"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3453
+}

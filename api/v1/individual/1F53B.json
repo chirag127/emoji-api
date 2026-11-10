@@ -1,0 +1,17 @@
+{
+  "id": "1F53B",
+  "emoji": "🔻",
+  "name": "red triangle pointed down",
+  "codepoints": [
+    "U+1F53B"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "geometric",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3688
+}

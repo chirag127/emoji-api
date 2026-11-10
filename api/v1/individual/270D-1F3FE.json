@@ -1,0 +1,18 @@
+{
+  "id": "270D-1F3FE",
+  "emoji": "✍🏾",
+  "name": "writing hand: medium-dark skin tone",
+  "codepoints": [
+    "U+270D",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "270D-FE0F",
+  "status": "fully-qualified",
+  "order": 448
+}

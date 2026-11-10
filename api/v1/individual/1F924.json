@@ -1,0 +1,17 @@
+{
+  "id": "1F924",
+  "emoji": "🤤",
+  "name": "drooling face",
+  "codepoints": [
+    "U+1F924"
+  ],
+  "version": "3.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-sleepy",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 56
+}

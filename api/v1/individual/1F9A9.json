@@ -1,0 +1,17 @@
+{
+  "id": "1F9A9",
+  "emoji": "🦩",
+  "name": "flamingo",
+  "codepoints": [
+    "U+1F9A9"
+  ],
+  "version": "12.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2683
+}

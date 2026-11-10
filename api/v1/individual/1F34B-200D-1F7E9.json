@@ -1,0 +1,19 @@
+{
+  "id": "1F34B-200D-1F7E9",
+  "emoji": "🍋‍🟩",
+  "name": "lime",
+  "codepoints": [
+    "U+1F34B",
+    "U+200D",
+    "U+1F7E9"
+  ],
+  "version": "15.1",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2768
+}

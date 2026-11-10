@@ -1,0 +1,17 @@
+{
+  "id": "1F473",
+  "emoji": "👳",
+  "name": "person wearing turban",
+  "codepoints": [
+    "U+1F473"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1242
+}

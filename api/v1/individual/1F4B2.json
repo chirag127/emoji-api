@@ -1,0 +1,17 @@
+{
+  "id": "1F4B2",
+  "emoji": "💲",
+  "name": "heavy dollar sign",
+  "codepoints": [
+    "U+1F4B2"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "currency",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3584
+}

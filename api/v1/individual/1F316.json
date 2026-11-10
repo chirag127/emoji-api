@@ -1,0 +1,17 @@
+{
+  "id": "1F316",
+  "emoji": "🌖",
+  "name": "waning gibbous moon",
+  "codepoints": [
+    "U+1F316"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3073
+}

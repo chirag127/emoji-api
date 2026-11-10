@@ -1,0 +1,18 @@
+{
+  "id": "26F7-FE0F",
+  "emoji": "⛷️",
+  "name": "skier",
+  "codepoints": [
+    "U+26F7",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1923
+}

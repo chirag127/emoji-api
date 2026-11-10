@@ -1,0 +1,17 @@
+{
+  "id": "1F638",
+  "emoji": "😸",
+  "name": "grinning cat with smiling eyes",
+  "codepoints": [
+    "U+1F638"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "cat-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 121
+}

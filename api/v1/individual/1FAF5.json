@@ -1,0 +1,17 @@
+{
+  "id": "1FAF5",
+  "emoji": "🫵",
+  "name": "index pointing at the viewer",
+  "codepoints": [
+    "U+1FAF5"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 328
+}

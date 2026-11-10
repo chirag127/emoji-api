@@ -1,0 +1,17 @@
+{
+  "id": "1F90D",
+  "emoji": "🤍",
+  "name": "white heart",
+  "codepoints": [
+    "U+1F90D"
+  ],
+  "version": "12.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 156
+}

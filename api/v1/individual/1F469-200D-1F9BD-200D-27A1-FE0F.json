@@ -1,0 +1,22 @@
+{
+  "id": "1F469-200D-1F9BD-200D-27A1-FE0F",
+  "emoji": "👩‍🦽‍➡️",
+  "name": "woman in manual wheelchair facing right",
+  "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+1F9BD",
+    "U+200D",
+    "U+27A1",
+    "U+FE0F"
+  ],
+  "version": "15.1",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1736
+}

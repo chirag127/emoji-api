@@ -1,0 +1,17 @@
+{
+  "id": "1F470",
+  "emoji": "👰",
+  "name": "person with veil",
+  "codepoints": [
+    "U+1F470"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1290
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F1E7-1F1F6",
+  "emoji": "🇧🇶",
+  "name": "flag: Caribbean Netherlands",
+  "codepoints": [
+    "U+1F1E7",
+    "U+1F1F6"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3731
+}

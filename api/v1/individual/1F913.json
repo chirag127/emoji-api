@@ -1,0 +1,17 @@
+{
+  "id": "1F913",
+  "emoji": "🤓",
+  "name": "nerd face",
+  "codepoints": [
+    "U+1F913"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-glasses",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 75
+}

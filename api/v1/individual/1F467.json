@@ -1,0 +1,17 @@
+{
+  "id": "1F467",
+  "emoji": "👧",
+  "name": "girl",
+  "codepoints": [
+    "U+1F467"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 528
+}

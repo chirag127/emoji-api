@@ -1,0 +1,21 @@
+{
+  "id": "26F9-1F3FF-200D-2640-FE0F",
+  "emoji": "⛹🏿‍♀️",
+  "name": "woman bouncing ball: dark skin tone",
+  "codepoints": [
+    "U+26F9",
+    "U+1F3FF",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "26F9-FE0F-200D-2640-FE0F",
+  "status": "fully-qualified",
+  "order": 2019
+}

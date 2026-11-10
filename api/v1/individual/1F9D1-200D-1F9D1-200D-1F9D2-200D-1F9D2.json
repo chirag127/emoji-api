@@ -1,0 +1,23 @@
+{
+  "id": "1F9D1-200D-1F9D1-200D-1F9D2-200D-1F9D2",
+  "emoji": "🧑‍🧑‍🧒‍🧒",
+  "name": "family: adult, adult, child, child",
+  "codepoints": [
+    "U+1F9D1",
+    "U+200D",
+    "U+1F9D1",
+    "U+200D",
+    "U+1F9D2",
+    "U+200D",
+    "U+1F9D2"
+  ],
+  "version": "15.1",
+  "group": "People & Body",
+  "subgroup": "person-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2597
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F399-FE0F",
+  "emoji": "🎙️",
+  "name": "studio microphone",
+  "codepoints": [
+    "U+1F399",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "music",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3260
+}

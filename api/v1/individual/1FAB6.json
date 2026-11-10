@@ -1,0 +1,17 @@
+{
+  "id": "1FAB6",
+  "emoji": "🪶",
+  "name": "feather",
+  "codepoints": [
+    "U+1FAB6"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2682
+}

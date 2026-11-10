@@ -1,0 +1,17 @@
+{
+  "id": "1F512",
+  "emoji": "🔒",
+  "name": "locked",
+  "codepoints": [
+    "U+1F512"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "lock",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3387
+}

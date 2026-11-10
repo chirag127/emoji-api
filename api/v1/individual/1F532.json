@@ -1,0 +1,17 @@
+{
+  "id": "1F532",
+  "emoji": "🔲",
+  "name": "black square button",
+  "codepoints": [
+    "U+1F532"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "geometric",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3692
+}

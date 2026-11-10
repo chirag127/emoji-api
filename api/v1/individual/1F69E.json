@@ -1,0 +1,17 @@
+{
+  "id": "1F69E",
+  "emoji": "🚞",
+  "name": "mountain railway",
+  "codepoints": [
+    "U+1F69E"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2972
+}

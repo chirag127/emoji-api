@@ -1,0 +1,18 @@
+{
+  "id": "1F397-FE0F",
+  "emoji": "🎗️",
+  "name": "reminder ribbon",
+  "codepoints": [
+    "U+1F397",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3134
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F481",
+  "emoji": "💁",
+  "name": "person tipping hand",
+  "codepoints": [
+    "U+1F481"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 750
+}

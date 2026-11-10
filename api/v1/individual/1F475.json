@@ -1,0 +1,17 @@
+{
+  "id": "1F475",
+  "emoji": "👵",
+  "name": "old woman",
+  "codepoints": [
+    "U+1F475"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 672
+}

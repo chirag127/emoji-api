@@ -1,0 +1,18 @@
+{
+  "id": "1F5F3-FE0F",
+  "emoji": "🗳️",
+  "name": "ballot box with ballot",
+  "codepoints": [
+    "U+1F5F3",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3355
+}

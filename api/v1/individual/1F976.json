@@ -1,0 +1,17 @@
+{
+  "id": "1F976",
+  "emoji": "🥶",
+  "name": "cold face",
+  "codepoints": [
+    "U+1F976"
+  ],
+  "version": "11.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 66
+}

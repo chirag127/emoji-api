@@ -1,0 +1,17 @@
+{
+  "id": "1F4F6",
+  "emoji": "📶",
+  "name": "antenna bars",
+  "codepoints": [
+    "U+1F4F6"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3563
+}

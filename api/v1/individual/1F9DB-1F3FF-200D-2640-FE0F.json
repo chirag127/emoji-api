@@ -1,0 +1,21 @@
+{
+  "id": "1F9DB-1F3FF-200D-2640-FE0F",
+  "emoji": "🧛🏿‍♀️",
+  "name": "woman vampire: dark skin tone",
+  "codepoints": [
+    "U+1F9DB",
+    "U+1F3FF",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F9DB-200D-2640-FE0F",
+  "status": "fully-qualified",
+  "order": 1463
+}

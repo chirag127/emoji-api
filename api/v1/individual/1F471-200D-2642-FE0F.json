@@ -1,0 +1,20 @@
+{
+  "id": "1F471-200D-2642-FE0F",
+  "emoji": "👱‍♂️",
+  "name": "man: blond hair",
+  "codepoints": [
+    "U+1F471",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 654
+}

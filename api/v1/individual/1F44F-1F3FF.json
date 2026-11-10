@@ -1,0 +1,18 @@
+{
+  "id": "1F44F-1F3FF",
+  "emoji": "👏🏿",
+  "name": "clapping hands: dark skin tone",
+  "codepoints": [
+    "U+1F44F",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F44F",
+  "status": "fully-qualified",
+  "order": 387
+}

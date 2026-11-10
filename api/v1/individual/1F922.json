@@ -1,0 +1,17 @@
+{
+  "id": "1F922",
+  "emoji": "🤢",
+  "name": "nauseated face",
+  "codepoints": [
+    "U+1F922"
+  ],
+  "version": "3.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 62
+}

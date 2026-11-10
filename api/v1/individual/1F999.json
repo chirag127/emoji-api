@@ -1,0 +1,17 @@
+{
+  "id": "1F999",
+  "emoji": "🦙",
+  "name": "llama",
+  "codepoints": [
+    "U+1F999"
+  ],
+  "version": "11.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2642
+}

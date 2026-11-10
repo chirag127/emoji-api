@@ -1,0 +1,17 @@
+{
+  "id": "1F69B",
+  "emoji": "🚛",
+  "name": "articulated lorry",
+  "codepoints": [
+    "U+1F69B"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2989
+}

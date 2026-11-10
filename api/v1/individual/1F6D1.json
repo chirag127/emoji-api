@@ -1,0 +1,17 @@
+{
+  "id": "1F6D1",
+  "emoji": "🛑",
+  "name": "stop sign",
+  "codepoints": [
+    "U+1F6D1"
+  ],
+  "version": "3.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3010
+}

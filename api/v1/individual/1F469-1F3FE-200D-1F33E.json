@@ -1,0 +1,20 @@
+{
+  "id": "1F469-1F3FE-200D-1F33E",
+  "emoji": "👩🏾‍🌾",
+  "name": "woman farmer: medium-dark skin tone",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+1F33E"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F469-200D-1F33E",
+  "status": "fully-qualified",
+  "order": 946
+}

@@ -1,0 +1,18 @@
+{
+  "id": "271D-FE0F",
+  "emoji": "✝️",
+  "name": "latin cross",
+  "codepoints": [
+    "U+271D",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "religion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3522
+}

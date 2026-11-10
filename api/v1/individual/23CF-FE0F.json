@@ -1,0 +1,18 @@
+{
+  "id": "23CF-FE0F",
+  "emoji": "⏏️",
+  "name": "eject button",
+  "codepoints": [
+    "U+23CF",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3559
+}

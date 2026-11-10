@@ -1,0 +1,17 @@
+{
+  "id": "1F35B",
+  "emoji": "🍛",
+  "name": "curry rice",
+  "codepoints": [
+    "U+1F35B"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-asian",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2841
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F451",
+  "emoji": "👑",
+  "name": "crown",
+  "codepoints": [
+    "U+1F451"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3237
+}

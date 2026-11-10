@@ -1,0 +1,17 @@
+{
+  "id": "1F600",
+  "emoji": "😀",
+  "name": "grinning face",
+  "codepoints": [
+    "U+1F600"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-smiling",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 0
+}

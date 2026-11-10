@@ -1,0 +1,17 @@
+{
+  "id": "1F9C3",
+  "emoji": "🧃",
+  "name": "beverage box",
+  "codepoints": [
+    "U+1F9C3"
+  ],
+  "version": "12.0",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2885
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F9CD",
+  "emoji": "🧍",
+  "name": "person standing",
+  "codepoints": [
+    "U+1F9CD"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1580
+}

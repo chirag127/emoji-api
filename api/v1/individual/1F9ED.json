@@ -1,0 +1,17 @@
+{
+  "id": "1F9ED",
+  "emoji": "🧭",
+  "name": "compass",
+  "codepoints": [
+    "U+1F9ED"
+  ],
+  "version": "11.0",
+  "group": "Travel & Places",
+  "subgroup": "place-map",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2901
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1F441-FE0F-200D-1F5E8-FE0F",
+  "emoji": "👁️‍🗨️",
+  "name": "eye in speech bubble",
+  "codepoints": [
+    "U+1F441",
+    "U+FE0F",
+    "U+200D",
+    "U+1F5E8",
+    "U+FE0F"
+  ],
+  "version": "2.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 167
+}

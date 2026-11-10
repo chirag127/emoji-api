@@ -1,0 +1,19 @@
+{
+  "id": "0038-FE0F-20E3",
+  "emoji": "8️⃣",
+  "name": "keycap: 8",
+  "codepoints": [
+    "U+0038",
+    "U+FE0F",
+    "U+20E3"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "keycap",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3617
+}

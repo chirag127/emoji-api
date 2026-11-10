@@ -1,0 +1,17 @@
+{
+  "id": "1FAB8",
+  "emoji": "🪸",
+  "name": "coral",
+  "codepoints": [
+    "U+1FAB8"
+  ],
+  "version": "14.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2710
+}

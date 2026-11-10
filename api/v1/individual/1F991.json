@@ -1,0 +1,17 @@
+{
+  "id": "1F991",
+  "emoji": "🦑",
+  "name": "squid",
+  "codepoints": [
+    "U+1F991"
+  ],
+  "version": "3.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2715
+}

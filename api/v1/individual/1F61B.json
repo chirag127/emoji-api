@@ -1,0 +1,17 @@
+{
+  "id": "1F61B",
+  "emoji": "😛",
+  "name": "face with tongue",
+  "codepoints": [
+    "U+1F61B"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-tongue",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 25
+}

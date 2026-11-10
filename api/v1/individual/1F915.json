@@ -1,0 +1,17 @@
+{
+  "id": "1F915",
+  "emoji": "🤕",
+  "name": "face with head-bandage",
+  "codepoints": [
+    "U+1F915"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 61
+}

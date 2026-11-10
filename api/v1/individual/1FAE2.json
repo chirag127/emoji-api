@@ -1,0 +1,17 @@
+{
+  "id": "1FAE2",
+  "emoji": "🫢",
+  "name": "face with open eyes and hand over mouth",
+  "codepoints": [
+    "U+1FAE2"
+  ],
+  "version": "14.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hand",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 32
+}

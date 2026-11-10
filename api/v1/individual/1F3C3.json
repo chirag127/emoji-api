@@ -1,0 +1,17 @@
+{
+  "id": "1F3C3",
+  "emoji": "🏃",
+  "name": "person running",
+  "codepoints": [
+    "U+1F3C3"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1742
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAD2",
+  "emoji": "🫒",
+  "name": "olive",
+  "codepoints": [
+    "U+1FAD2"
+  ],
+  "version": "13.0",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2781
+}

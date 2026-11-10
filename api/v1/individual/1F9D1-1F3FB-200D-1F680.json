@@ -1,0 +1,20 @@
+{
+  "id": "1F9D1-1F3FB-200D-1F680",
+  "emoji": "🧑🏻‍🚀",
+  "name": "astronaut: light skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+1F680"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F9D1-200D-1F680",
+  "status": "fully-qualified",
+  "order": 1111
+}

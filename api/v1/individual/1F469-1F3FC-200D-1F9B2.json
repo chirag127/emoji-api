@@ -1,0 +1,20 @@
+{
+  "id": "1F469-1F3FC-200D-1F9B2",
+  "emoji": "👩🏼‍🦲",
+  "name": "woman: medium-light skin tone, bald",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+1F9B2"
+  ],
+  "version": "11.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 638
+}

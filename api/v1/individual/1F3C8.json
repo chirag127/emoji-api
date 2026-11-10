@@ -1,0 +1,17 @@
+{
+  "id": "1F3C8",
+  "emoji": "🏈",
+  "name": "american football",
+  "codepoints": [
+    "U+1F3C8"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3148
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1F64B-200D-2640-FE0F",
+  "emoji": "🙋‍♀️",
+  "name": "woman raising hand",
+  "codepoints": [
+    "U+1F64B",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 780
+}

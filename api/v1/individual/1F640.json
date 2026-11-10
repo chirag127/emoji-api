@@ -1,0 +1,17 @@
+{
+  "id": "1F640",
+  "emoji": "🙀",
+  "name": "weary cat",
+  "codepoints": [
+    "U+1F640"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "cat-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 126
+}

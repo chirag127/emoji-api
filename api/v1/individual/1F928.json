@@ -1,0 +1,17 @@
+{
+  "id": "1F928",
+  "emoji": "🤨",
+  "name": "face with raised eyebrow",
+  "codepoints": [
+    "U+1F928"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 38
+}

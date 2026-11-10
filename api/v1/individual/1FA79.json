@@ -1,0 +1,17 @@
+{
+  "id": "1FA79",
+  "emoji": "🩹",
+  "name": "adhesive bandage",
+  "codepoints": [
+    "U+1FA79"
+  ],
+  "version": "12.0",
+  "group": "Objects",
+  "subgroup": "medical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3431
+}

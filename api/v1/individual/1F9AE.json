@@ -1,0 +1,17 @@
+{
+  "id": "1F9AE",
+  "emoji": "🦮",
+  "name": "guide dog",
+  "codepoints": [
+    "U+1F9AE"
+  ],
+  "version": "12.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2608
+}

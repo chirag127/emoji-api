@@ -1,0 +1,17 @@
+{
+  "id": "1F96E",
+  "emoji": "🥮",
+  "name": "moon cake",
+  "codepoints": [
+    "U+1F96E"
+  ],
+  "version": "11.0",
+  "group": "Food & Drink",
+  "subgroup": "food-asian",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2849
+}

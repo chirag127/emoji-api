@@ -1,0 +1,17 @@
+{
+  "id": "1F42C",
+  "emoji": "🐬",
+  "name": "dolphin",
+  "codepoints": [
+    "U+1F42C"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2701
+}

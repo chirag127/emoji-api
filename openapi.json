@@ -2,30 +2,95 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Emoji Metadata",
-    "description": "Emoji with categories, keywords, versions, and skin tone support",
+    "description": "Every fully-qualified RGI emoji with its CLDR name, group, subgroup, Unicode emoji version, skin-tone support and hex codepoints.",
     "version": "1.0.0",
     "license": {
-      "name": "Unicode-DFS-2.1"
+      "name": "MIT (code); Unicode License V3 (data)"
+    },
+    "contact": {
+      "name": "Chirag Singhal",
+      "url": "https://github.com/chirag127",
+      "email": "chirag@oriz.in"
     }
   },
   "servers": [
     {
-      "url": "https://chirag127.github.io/emoji",
+      "url": "https://chirag127.github.io/emoji-api",
       "description": "GitHub Pages"
     }
   ],
   "paths": {
-    "/data.json": {
+    "/api/v1/data.json": {
       "get": {
-        "summary": "Emoji Metadata data",
-        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "summary": "All fully-qualified emoji records",
+        "operationId": "listData",
         "responses": {
           "200": {
-            "description": "JSON response",
+            "description": "JSON array of records",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array"
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "string",
+                        "description": "Hex codepoints joined with dashes, used as the record id"
+                      },
+                      "emoji": {
+                        "type": "string",
+                        "description": "The emoji itself"
+                      },
+                      "name": {
+                        "type": "string",
+                        "description": "CLDR short name"
+                      },
+                      "codepoints": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        },
+                        "description": "Hex codepoints"
+                      },
+                      "version": {
+                        "type": "string",
+                        "description": "Emoji version the emoji was introduced in"
+                      },
+                      "group": {
+                        "type": "string",
+                        "description": "CLDR group"
+                      },
+                      "subgroup": {
+                        "type": "string",
+                        "description": "CLDR subgroup"
+                      },
+                      "skinToneSupport": {
+                        "type": "boolean",
+                        "description": "True if the emoji takes a skin-tone modifier"
+                      },
+                      "skinToneVariants": {
+                        "type": "integer",
+                        "description": "Number of skin-tone variants published for this emoji"
+                      },
+                      "tone": {
+                        "type": "string",
+                        "description": "Skin tone of this record, when it is a tone variant"
+                      },
+                      "base": {
+                        "type": "string",
+                        "description": "Record id of the base emoji, when this record is a tone variant"
+                      },
+                      "status": {
+                        "type": "string",
+                        "description": "UTS #51 status of the form, always fully-qualified here"
+                      },
+                      "order": {
+                        "type": "integer",
+                        "description": "Position in CLDR order"
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -33,35 +98,151 @@
         }
       }
     },
-    "/data/emoji": {
+    "/api/v1/individual/{id}.json": {
       "get": {
-        "summary": "Emoji Metadata",
-        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "summary": "Single record by id",
+        "operationId": "getRecord",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
-            "description": "JSON response",
+            "description": "One record object",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array"
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "description": "Hex codepoints joined with dashes, used as the record id"
+                    },
+                    "emoji": {
+                      "type": "string",
+                      "description": "The emoji itself"
+                    },
+                    "name": {
+                      "type": "string",
+                      "description": "CLDR short name"
+                    },
+                    "codepoints": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "description": "Hex codepoints"
+                    },
+                    "version": {
+                      "type": "string",
+                      "description": "Emoji version the emoji was introduced in"
+                    },
+                    "group": {
+                      "type": "string",
+                      "description": "CLDR group"
+                    },
+                    "subgroup": {
+                      "type": "string",
+                      "description": "CLDR subgroup"
+                    },
+                    "skinToneSupport": {
+                      "type": "boolean",
+                      "description": "True if the emoji takes a skin-tone modifier"
+                    },
+                    "skinToneVariants": {
+                      "type": "integer",
+                      "description": "Number of skin-tone variants published for this emoji"
+                    },
+                    "tone": {
+                      "type": "string",
+                      "description": "Skin tone of this record, when it is a tone variant"
+                    },
+                    "base": {
+                      "type": "string",
+                      "description": "Record id of the base emoji, when this record is a tone variant"
+                    },
+                    "status": {
+                      "type": "string",
+                      "description": "UTS #51 status of the form, always fully-qualified here"
+                    },
+                    "order": {
+                      "type": "integer",
+                      "description": "Position in CLDR order"
+                    }
+                  }
                 }
               }
             }
+          },
+          "404": {
+            "description": "No record with that id"
           }
         }
       }
     },
-    "/data/emoji/{code}": {
+    "/api/v1/search-index.json": {
       "get": {
-        "summary": "Emoji Metadata",
-        "description": "Emoji with categories, keywords, versions, and skin tone support",
+        "summary": "All records keyed by id",
+        "operationId": "getSearchIndex",
         "responses": {
           "200": {
-            "description": "JSON response",
+            "description": "Object of records keyed by id"
+          }
+        }
+      }
+    },
+    "/api/v1/meta.json": {
+      "get": {
+        "summary": "Dataset metadata (record count, source, retrieval time)",
+        "operationId": "getMeta",
+        "responses": {
+          "200": {
+            "description": "Metadata",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array"
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    },
+                    "lastUpdated": {
+                      "type": "string"
+                    },
+                    "sourceUpdatedAt": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "retrievedAt": {
+                      "type": "string"
+                    },
+                    "recordCount": {
+                      "type": "integer"
+                    },
+                    "version": {
+                      "type": "string"
+                    },
+                    "schemaVersion": {
+                      "type": "string"
+                    },
+                    "source": {
+                      "type": "string"
+                    },
+                    "sourceUrl": {
+                      "type": "string"
+                    },
+                    "license": {
+                      "type": "string"
+                    }
+                  }
                 }
               }
             }

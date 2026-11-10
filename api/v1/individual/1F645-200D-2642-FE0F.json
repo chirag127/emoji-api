@@ -1,0 +1,20 @@
+{
+  "id": "1F645-200D-2642-FE0F",
+  "emoji": "🙅‍♂️",
+  "name": "man gesturing NO",
+  "codepoints": [
+    "U+1F645",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 720
+}

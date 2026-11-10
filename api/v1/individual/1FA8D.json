@@ -1,0 +1,17 @@
+{
+  "id": "1FA8D",
+  "emoji": "🪍",
+  "name": "net with handle",
+  "codepoints": [
+    "U+1FA8D"
+  ],
+  "version": "18.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3393
+}

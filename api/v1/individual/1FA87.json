@@ -1,0 +1,17 @@
+{
+  "id": "1FA87",
+  "emoji": "🪇",
+  "name": "maracas",
+  "codepoints": [
+    "U+1FA87"
+  ],
+  "version": "15.0",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3276
+}

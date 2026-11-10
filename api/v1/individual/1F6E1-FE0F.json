@@ -1,0 +1,18 @@
+{
+  "id": "1F6E1-FE0F",
+  "emoji": "🛡️",
+  "name": "shield",
+  "codepoints": [
+    "U+1F6E1",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3404
+}

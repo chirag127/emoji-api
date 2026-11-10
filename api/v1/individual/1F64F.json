@@ -1,0 +1,17 @@
+{
+  "id": "1F64F",
+  "emoji": "🙏",
+  "name": "folded hands",
+  "codepoints": [
+    "U+1F64F"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 438
+}

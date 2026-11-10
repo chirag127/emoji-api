@@ -1,0 +1,17 @@
+{
+  "id": "1F942",
+  "emoji": "🥂",
+  "name": "clinking glasses",
+  "codepoints": [
+    "U+1F942"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2880
+}

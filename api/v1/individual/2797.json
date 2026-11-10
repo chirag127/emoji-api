@@ -1,0 +1,17 @@
+{
+  "id": "2797",
+  "emoji": "➗",
+  "name": "divide",
+  "codepoints": [
+    "U+2797"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "math",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3573
+}

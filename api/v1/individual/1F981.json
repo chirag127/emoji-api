@@ -1,0 +1,17 @@
+{
+  "id": "1F981",
+  "emoji": "🦁",
+  "name": "lion",
+  "codepoints": [
+    "U+1F981"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2617
+}

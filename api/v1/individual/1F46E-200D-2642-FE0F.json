@@ -1,0 +1,20 @@
+{
+  "id": "1F46E-200D-2642-FE0F",
+  "emoji": "👮‍♂️",
+  "name": "man police officer",
+  "codepoints": [
+    "U+1F46E",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1152
+}

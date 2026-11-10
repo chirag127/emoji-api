@@ -1,0 +1,18 @@
+{
+  "id": "1F487-1F3FB",
+  "emoji": "💇🏻",
+  "name": "person getting haircut: light skin tone",
+  "codepoints": [
+    "U+1F487",
+    "U+1F3FB"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F487",
+  "status": "fully-qualified",
+  "order": 1527
+}

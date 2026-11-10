@@ -1,0 +1,17 @@
+{
+  "id": "1F92F",
+  "emoji": "🤯",
+  "name": "exploding head",
+  "codepoints": [
+    "U+1F92F"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 70
+}

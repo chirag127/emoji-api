@@ -1,0 +1,17 @@
+{
+  "id": "1F95E",
+  "emoji": "🥞",
+  "name": "pancakes",
+  "codepoints": [
+    "U+1F95E"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2809
+}

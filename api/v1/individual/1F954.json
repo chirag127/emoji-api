@@ -1,0 +1,17 @@
+{
+  "id": "1F954",
+  "emoji": "🥔",
+  "name": "potato",
+  "codepoints": [
+    "U+1F954"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2785
+}

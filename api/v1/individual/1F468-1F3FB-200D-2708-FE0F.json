@@ -1,0 +1,21 @@
+{
+  "id": "1F468-1F3FB-200D-2708-FE0F",
+  "emoji": "👨🏻‍✈️",
+  "name": "man pilot: light skin tone",
+  "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2708",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F468-200D-2708-FE0F",
+  "status": "fully-qualified",
+  "order": 1099
+}

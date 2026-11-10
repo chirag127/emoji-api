@@ -1,0 +1,20 @@
+{
+  "id": "1F9D1-1F3FB-200D-1F9B0",
+  "emoji": "🧑🏻‍🦰",
+  "name": "person: light skin tone, red hair",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+1F9B0"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 607
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F50A",
+  "emoji": "🔊",
+  "name": "speaker high volume",
+  "codepoints": [
+    "U+1F50A"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "sound",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3251
+}

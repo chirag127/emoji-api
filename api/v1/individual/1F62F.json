@@ -1,0 +1,17 @@
+{
+  "id": "1F62F",
+  "emoji": "😯",
+  "name": "hushed face",
+  "codepoints": [
+    "U+1F62F"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-concerned",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 83
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F918",
+  "emoji": "🤘",
+  "name": "sign of the horns",
+  "codepoints": [
+    "U+1F918"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 280
+}

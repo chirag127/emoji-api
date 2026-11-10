@@ -1,0 +1,17 @@
+{
+  "id": "1FAB1",
+  "emoji": "🪱",
+  "name": "worm",
+  "codepoints": [
+    "U+1FAB1"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2732
+}

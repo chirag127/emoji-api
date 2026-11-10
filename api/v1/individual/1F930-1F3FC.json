@@ -1,0 +1,18 @@
+{
+  "id": "1F930-1F3FC",
+  "emoji": "🤰🏼",
+  "name": "pregnant woman: medium-light skin tone",
+  "codepoints": [
+    "U+1F930",
+    "U+1F3FC"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F930",
+  "status": "fully-qualified",
+  "order": 1310
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F969",
+  "emoji": "🥩",
+  "name": "cut of meat",
+  "codepoints": [
+    "U+1F969"
+  ],
+  "version": "5.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2814
+}

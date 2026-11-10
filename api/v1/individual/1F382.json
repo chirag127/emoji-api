@@ -1,0 +1,17 @@
+{
+  "id": "1F382",
+  "emoji": "🎂",
+  "name": "birthday cake",
+  "codepoints": [
+    "U+1F382"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-sweet",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2859
+}

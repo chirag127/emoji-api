@@ -1,0 +1,17 @@
+{
+  "id": "1F61A",
+  "emoji": "😚",
+  "name": "kissing face with closed eyes",
+  "codepoints": [
+    "U+1F61A"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-affection",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 21
+}

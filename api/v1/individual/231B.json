@@ -1,0 +1,17 @@
+{
+  "id": "231B",
+  "emoji": "⌛",
+  "name": "hourglass done",
+  "codepoints": [
+    "U+231B"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3037
+}

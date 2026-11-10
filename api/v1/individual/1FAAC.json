@@ -1,0 +1,17 @@
+{
+  "id": "1FAAC",
+  "emoji": "🪬",
+  "name": "hamsa",
+  "codepoints": [
+    "U+1FAAC"
+  ],
+  "version": "14.0",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3465
+}

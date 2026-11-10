@@ -1,0 +1,18 @@
+{
+  "id": "1F1E9-1F1F0",
+  "emoji": "🇩🇰",
+  "name": "flag: Denmark",
+  "codepoints": [
+    "U+1F1E9",
+    "U+1F1F0"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3763
+}

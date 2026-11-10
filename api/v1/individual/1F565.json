@@ -1,0 +1,17 @@
+{
+  "id": "1F565",
+  "emoji": "🕥",
+  "name": "ten-thirty",
+  "codepoints": [
+    "U+1F565"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3065
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAA9",
+  "emoji": "🪩",
+  "name": "mirror ball",
+  "codepoints": [
+    "U+1FAA9"
+  ],
+  "version": "14.0",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3184
+}

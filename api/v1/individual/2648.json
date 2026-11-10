@@ -1,0 +1,17 @@
+{
+  "id": "2648",
+  "emoji": "♈",
+  "name": "Aries",
+  "codepoints": [
+    "U+2648"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3529
+}

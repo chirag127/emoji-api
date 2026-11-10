@@ -1,0 +1,17 @@
+{
+  "id": "1F608",
+  "emoji": "😈",
+  "name": "smiling face with horns",
+  "codepoints": [
+    "U+1F608"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 108
+}

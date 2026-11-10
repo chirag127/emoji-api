@@ -1,0 +1,18 @@
+{
+  "id": "1F933-1F3FB",
+  "emoji": "🤳🏻",
+  "name": "selfie: light skin tone",
+  "codepoints": [
+    "U+1F933",
+    "U+1F3FB"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F933",
+  "status": "fully-qualified",
+  "order": 457
+}

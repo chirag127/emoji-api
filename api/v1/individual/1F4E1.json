@@ -1,0 +1,17 @@
+{
+  "id": "1F4E1",
+  "emoji": "📡",
+  "name": "satellite antenna",
+  "codepoints": [
+    "U+1F4E1"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "science",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3427
+}

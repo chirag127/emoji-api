@@ -1,0 +1,17 @@
+{
+  "id": "1F941",
+  "emoji": "🥁",
+  "name": "drum",
+  "codepoints": [
+    "U+1F941"
+  ],
+  "version": "3.0",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3274
+}

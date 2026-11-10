@@ -1,0 +1,17 @@
+{
+  "id": "1F51F",
+  "emoji": "🔟",
+  "name": "keycap: 10",
+  "codepoints": [
+    "U+1F51F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "keycap",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3619
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F9AA",
+  "emoji": "🦪",
+  "name": "oyster",
+  "codepoints": [
+    "U+1F9AA"
+  ],
+  "version": "12.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2716
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F442",
+  "emoji": "👂",
+  "name": "ear",
+  "codepoints": [
+    "U+1F442"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 482
+}

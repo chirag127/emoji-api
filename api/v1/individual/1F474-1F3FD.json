@@ -1,0 +1,18 @@
+{
+  "id": "1F474-1F3FD",
+  "emoji": "👴🏽",
+  "name": "old man: medium skin tone",
+  "codepoints": [
+    "U+1F474",
+    "U+1F3FD"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F474",
+  "status": "fully-qualified",
+  "order": 669
+}

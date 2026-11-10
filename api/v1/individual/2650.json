@@ -1,0 +1,17 @@
+{
+  "id": "2650",
+  "emoji": "♐",
+  "name": "Sagittarius",
+  "codepoints": [
+    "U+2650"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3537
+}

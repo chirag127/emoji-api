@@ -1,0 +1,17 @@
+{
+  "id": "1F517",
+  "emoji": "🔗",
+  "name": "link",
+  "codepoints": [
+    "U+1F517"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3413
+}

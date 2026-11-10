@@ -1,0 +1,17 @@
+{
+  "id": "1F953",
+  "emoji": "🥓",
+  "name": "bacon",
+  "codepoints": [
+    "U+1F953"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2815
+}

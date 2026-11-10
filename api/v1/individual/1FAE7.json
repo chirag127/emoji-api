@@ -1,0 +1,17 @@
+{
+  "id": "1FAE7",
+  "emoji": "🫧",
+  "name": "bubbles",
+  "codepoints": [
+    "U+1FAE7"
+  ],
+  "version": "14.0",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3455
+}

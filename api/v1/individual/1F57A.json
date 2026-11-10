@@ -1,0 +1,17 @@
+{
+  "id": "1F57A",
+  "emoji": "🕺",
+  "name": "man dancing",
+  "codepoints": [
+    "U+1F57A"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1790
+}

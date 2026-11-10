@@ -1,0 +1,18 @@
+{
+  "id": "2663-FE0F",
+  "emoji": "♣️",
+  "name": "club suit",
+  "codepoints": [
+    "U+2663",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3189
+}

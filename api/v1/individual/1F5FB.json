@@ -1,0 +1,17 @@
+{
+  "id": "1F5FB",
+  "emoji": "🗻",
+  "name": "mount fuji",
+  "codepoints": [
+    "U+1F5FB"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-geographic",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2906
+}

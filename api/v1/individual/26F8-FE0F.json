@@ -1,0 +1,18 @@
+{
+  "id": "26F8-FE0F",
+  "emoji": "⛸️",
+  "name": "ice skate",
+  "codepoints": [
+    "U+26F8",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3163
+}

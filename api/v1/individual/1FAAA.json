@@ -1,0 +1,17 @@
+{
+  "id": "1FAAA",
+  "emoji": "🪪",
+  "name": "identification card",
+  "codepoints": [
+    "U+1FAAA"
+  ],
+  "version": "14.0",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3468
+}

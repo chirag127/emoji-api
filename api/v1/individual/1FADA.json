@@ -1,0 +1,17 @@
+{
+  "id": "1FADA",
+  "emoji": "🫚",
+  "name": "ginger root",
+  "codepoints": [
+    "U+1FADA"
+  ],
+  "version": "15.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2799
+}

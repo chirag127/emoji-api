@@ -1,0 +1,17 @@
+{
+  "id": "1F509",
+  "emoji": "🔉",
+  "name": "speaker medium volume",
+  "codepoints": [
+    "U+1F509"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "sound",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3250
+}

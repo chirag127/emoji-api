@@ -1,0 +1,17 @@
+{
+  "id": "1F47D",
+  "emoji": "👽",
+  "name": "alien",
+  "codepoints": [
+    "U+1F47D"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-costume",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 117
+}

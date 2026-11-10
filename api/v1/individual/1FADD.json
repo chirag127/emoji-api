@@ -1,0 +1,17 @@
+{
+  "id": "1FADD",
+  "emoji": "🫝",
+  "name": "pickle",
+  "codepoints": [
+    "U+1FADD"
+  ],
+  "version": "18.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2791
+}

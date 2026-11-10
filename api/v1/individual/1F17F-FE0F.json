@@ -1,0 +1,18 @@
+{
+  "id": "1F17F-FE0F",
+  "emoji": "🅿️",
+  "name": "P button",
+  "codepoints": [
+    "U+1F17F",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "alphanum",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3638
+}

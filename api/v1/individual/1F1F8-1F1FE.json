@@ -1,0 +1,18 @@
+{
+  "id": "1F1F8-1F1FE",
+  "emoji": "🇸🇾",
+  "name": "flag: Syria",
+  "codepoints": [
+    "U+1F1F8",
+    "U+1F1FE"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3919
+}

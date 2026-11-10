@@ -1,0 +1,21 @@
+{
+  "id": "1F9CE-1F3FD-200D-2640-FE0F",
+  "emoji": "🧎🏽‍♀️",
+  "name": "woman kneeling: medium skin tone",
+  "codepoints": [
+    "U+1F9CE",
+    "U+1F3FD",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F9CE-200D-2640-FE0F",
+  "status": "fully-qualified",
+  "order": 1613
+}

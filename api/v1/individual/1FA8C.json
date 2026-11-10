@@ -1,0 +1,17 @@
+{
+  "id": "1FA8C",
+  "emoji": "🪌",
+  "name": "eraser",
+  "codepoints": [
+    "U+1FA8C"
+  ],
+  "version": "18.0",
+  "group": "Objects",
+  "subgroup": "writing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3363
+}

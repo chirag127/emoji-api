@@ -1,0 +1,17 @@
+{
+  "id": "1F5FF",
+  "emoji": "🗿",
+  "name": "moai",
+  "codepoints": [
+    "U+1F5FF"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "other-object",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3466
+}

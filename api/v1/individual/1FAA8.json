@@ -1,0 +1,17 @@
+{
+  "id": "1FAA8",
+  "emoji": "🪨",
+  "name": "rock",
+  "codepoints": [
+    "U+1FAA8"
+  ],
+  "version": "13.0",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2916
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE",
+  "emoji": "🧑🏼‍🤝‍🧑🏾",
+  "name": "people holding hands: medium-light skin tone, medium-dark skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+1F91D",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FE"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2263
+}

@@ -1,0 +1,18 @@
+{
+  "id": "26A7-FE0F",
+  "emoji": "⚧️",
+  "name": "transgender symbol",
+  "codepoints": [
+    "U+26A7",
+    "U+FE0F"
+  ],
+  "version": "13.0",
+  "group": "Symbols",
+  "subgroup": "gender",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3569
+}

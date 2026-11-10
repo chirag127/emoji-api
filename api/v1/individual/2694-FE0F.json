@@ -1,0 +1,18 @@
+{
+  "id": "2694-FE0F",
+  "emoji": "⚔️",
+  "name": "crossed swords",
+  "codepoints": [
+    "U+2694",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3400
+}

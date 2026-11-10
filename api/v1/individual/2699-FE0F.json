@@ -1,0 +1,18 @@
+{
+  "id": "2699-FE0F",
+  "emoji": "⚙️",
+  "name": "gear",
+  "codepoints": [
+    "U+2699",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3409
+}

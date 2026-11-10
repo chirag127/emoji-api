@@ -1,0 +1,18 @@
+{
+  "id": "1F476-1F3FE",
+  "emoji": "👶🏾",
+  "name": "baby: medium-dark skin tone",
+  "codepoints": [
+    "U+1F476",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F476",
+  "status": "fully-qualified",
+  "order": 514
+}

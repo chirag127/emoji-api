@@ -1,0 +1,17 @@
+{
+  "id": "1F6A9",
+  "emoji": "🚩",
+  "name": "triangular flag",
+  "codepoints": [
+    "U+1F6A9"
+  ],
+  "version": "0.6",
+  "group": "Flags",
+  "subgroup": "flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3694
+}

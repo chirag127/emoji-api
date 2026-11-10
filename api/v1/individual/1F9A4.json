@@ -1,0 +1,17 @@
+{
+  "id": "1F9A4",
+  "emoji": "🦤",
+  "name": "dodo",
+  "codepoints": [
+    "U+1F9A4"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2681
+}

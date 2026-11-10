@@ -1,0 +1,18 @@
+{
+  "id": "1F3F3-FE0F",
+  "emoji": "🏳️",
+  "name": "white flag",
+  "codepoints": [
+    "U+1F3F3",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Flags",
+  "subgroup": "flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3697
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F6D7",
+  "emoji": "🛗",
+  "name": "elevator",
+  "codepoints": [
+    "U+1F6D7"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3436
+}

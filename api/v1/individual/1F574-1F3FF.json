@@ -1,0 +1,18 @@
+{
+  "id": "1F574-1F3FF",
+  "emoji": "🕴🏿",
+  "name": "person in suit levitating: dark skin tone",
+  "codepoints": [
+    "U+1F574",
+    "U+1F3FF"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F574-FE0F",
+  "status": "fully-qualified",
+  "order": 1801
+}

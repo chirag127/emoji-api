@@ -1,0 +1,18 @@
+{
+  "id": "1F39F-FE0F",
+  "emoji": "🎟️",
+  "name": "admission tickets",
+  "codepoints": [
+    "U+1F39F",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3135
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F54A-FE0F",
+  "emoji": "🕊️",
+  "name": "dove",
+  "codepoints": [
+    "U+1F54A",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2676
+}

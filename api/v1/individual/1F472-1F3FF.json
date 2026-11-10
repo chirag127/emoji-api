@@ -1,0 +1,18 @@
+{
+  "id": "1F472-1F3FF",
+  "emoji": "👲🏿",
+  "name": "person with skullcap: dark skin tone",
+  "codepoints": [
+    "U+1F472",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F472",
+  "status": "fully-qualified",
+  "order": 1265
+}

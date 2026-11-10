@@ -1,0 +1,17 @@
+{
+  "id": "1F31C",
+  "emoji": "🌜",
+  "name": "last quarter moon face",
+  "codepoints": [
+    "U+1F31C"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3079
+}

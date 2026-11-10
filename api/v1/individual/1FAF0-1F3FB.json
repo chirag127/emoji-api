@@ -1,0 +1,18 @@
+{
+  "id": "1FAF0-1F3FB",
+  "emoji": "🫰🏻",
+  "name": "hand with index finger and thumb crossed: light skin tone",
+  "codepoints": [
+    "U+1FAF0",
+    "U+1F3FB"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1FAF0",
+  "status": "fully-qualified",
+  "order": 269
+}

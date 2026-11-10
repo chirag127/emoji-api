@@ -1,0 +1,20 @@
+{
+  "id": "1F468-200D-2695-FE0F",
+  "emoji": "👨‍⚕️",
+  "name": "man health worker",
+  "codepoints": [
+    "U+1F468",
+    "U+200D",
+    "U+2695",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 864
+}

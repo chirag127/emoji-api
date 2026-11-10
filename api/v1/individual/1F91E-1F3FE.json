@@ -1,0 +1,18 @@
+{
+  "id": "1F91E-1F3FE",
+  "emoji": "🤞🏾",
+  "name": "crossed fingers: medium-dark skin tone",
+  "codepoints": [
+    "U+1F91E",
+    "U+1F3FE"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F91E",
+  "status": "fully-qualified",
+  "order": 266
+}

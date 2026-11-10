@@ -1,0 +1,18 @@
+{
+  "id": "1F596-1F3FB",
+  "emoji": "🖖🏻",
+  "name": "vulcan salute: light skin tone",
+  "codepoints": [
+    "U+1F596",
+    "U+1F3FB"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F596",
+  "status": "fully-qualified",
+  "order": 197
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F425",
+  "emoji": "🐥",
+  "name": "front-facing baby chick",
+  "codepoints": [
+    "U+1F425"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2673
+}

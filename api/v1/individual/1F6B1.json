@@ -1,0 +1,17 @@
+{
+  "id": "1F6B1",
+  "emoji": "🚱",
+  "name": "non-potable water",
+  "codepoints": [
+    "U+1F6B1"
+  ],
+  "version": "1.0",
+  "group": "Symbols",
+  "subgroup": "warning",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3489
+}

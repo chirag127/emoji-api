@@ -1,0 +1,17 @@
+{
+  "id": "1F4CD",
+  "emoji": "📍",
+  "name": "round pushpin",
+  "codepoints": [
+    "U+1F4CD"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3378
+}

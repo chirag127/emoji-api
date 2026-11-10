@@ -1,0 +1,17 @@
+{
+  "id": "1F93A",
+  "emoji": "🤺",
+  "name": "person fencing",
+  "codepoints": [
+    "U+1F93A"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1916
+}

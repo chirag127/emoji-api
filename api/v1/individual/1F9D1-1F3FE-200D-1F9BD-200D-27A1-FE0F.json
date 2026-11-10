@@ -1,0 +1,23 @@
+{
+  "id": "1F9D1-1F3FE-200D-1F9BD-200D-27A1-FE0F",
+  "emoji": "🧑🏾‍🦽‍➡️",
+  "name": "person in manual wheelchair facing right: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+1F9BD",
+    "U+200D",
+    "U+27A1",
+    "U+FE0F"
+  ],
+  "version": "15.1",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9D1-200D-1F9BD-200D-27A1-FE0F",
+  "status": "fully-qualified",
+  "order": 1716
+}

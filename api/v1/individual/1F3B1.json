@@ -1,0 +1,17 @@
+{
+  "id": "1F3B1",
+  "emoji": "🎱",
+  "name": "pool 8 ball",
+  "codepoints": [
+    "U+1F3B1"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3174
+}

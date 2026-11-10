@@ -1,0 +1,17 @@
+{
+  "id": "2614",
+  "emoji": "☔",
+  "name": "umbrella with rain drops",
+  "codepoints": [
+    "U+2614"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3105
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F90F",
+  "emoji": "🤏",
+  "name": "pinching hand",
+  "codepoints": [
+    "U+1F90F"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 250
+}

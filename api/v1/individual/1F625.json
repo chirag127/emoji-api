@@ -1,0 +1,17 @@
+{
+  "id": "1F625",
+  "emoji": "😥",
+  "name": "sad but relieved face",
+  "codepoints": [
+    "U+1F625"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-concerned",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 93
+}

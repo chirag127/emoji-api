@@ -1,0 +1,20 @@
+{
+  "id": "1F937-200D-2640-FE0F",
+  "emoji": "🤷‍♀️",
+  "name": "woman shrugging",
+  "codepoints": [
+    "U+1F937",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 852
+}

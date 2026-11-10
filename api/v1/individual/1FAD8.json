@@ -1,0 +1,17 @@
+{
+  "id": "1FAD8",
+  "emoji": "🫘",
+  "name": "beans",
+  "codepoints": [
+    "U+1FAD8"
+  ],
+  "version": "14.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2797
+}

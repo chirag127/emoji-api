@@ -1,0 +1,18 @@
+{
+  "id": "1F90F-1F3FB",
+  "emoji": "🤏🏻",
+  "name": "pinching hand: light skin tone",
+  "codepoints": [
+    "U+1F90F",
+    "U+1F3FB"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F90F",
+  "status": "fully-qualified",
+  "order": 251
+}

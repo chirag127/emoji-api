@@ -1,0 +1,17 @@
+{
+  "id": "1F9AD",
+  "emoji": "🦭",
+  "name": "seal",
+  "codepoints": [
+    "U+1F9AD"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2703
+}

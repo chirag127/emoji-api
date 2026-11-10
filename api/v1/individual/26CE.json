@@ -1,0 +1,17 @@
+{
+  "id": "26CE",
+  "emoji": "⛎",
+  "name": "Ophiuchus",
+  "codepoints": [
+    "U+26CE"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3541
+}

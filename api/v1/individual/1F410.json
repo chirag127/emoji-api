@@ -1,0 +1,17 @@
+{
+  "id": "1F410",
+  "emoji": "🐐",
+  "name": "goat",
+  "codepoints": [
+    "U+1F410"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2639
+}

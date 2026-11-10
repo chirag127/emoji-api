@@ -1,0 +1,17 @@
+{
+  "id": "1F37B",
+  "emoji": "🍻",
+  "name": "clinking beer mugs",
+  "codepoints": [
+    "U+1F37B"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2879
+}

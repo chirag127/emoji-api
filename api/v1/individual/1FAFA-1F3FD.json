@@ -1,0 +1,18 @@
+{
+  "id": "1FAFA-1F3FD",
+  "emoji": "🫺🏽",
+  "name": "rightwards thumb sign: medium skin tone",
+  "codepoints": [
+    "U+1FAFA",
+    "U+1F3FD"
+  ],
+  "version": "18.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1FAFA",
+  "status": "fully-qualified",
+  "order": 355
+}

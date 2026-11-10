@@ -1,0 +1,18 @@
+{
+  "id": "1F590-FE0F",
+  "emoji": "🖐️",
+  "name": "hand with fingers splayed",
+  "codepoints": [
+    "U+1F590",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 184
+}

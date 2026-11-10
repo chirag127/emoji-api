@@ -1,0 +1,17 @@
+{
+  "id": "1F359",
+  "emoji": "🍙",
+  "name": "rice ball",
+  "codepoints": [
+    "U+1F359"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-asian",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2839
+}

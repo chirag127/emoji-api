@@ -1,0 +1,17 @@
+{
+  "id": "1F925",
+  "emoji": "🤥",
+  "name": "lying face",
+  "codepoints": [
+    "U+1F925"
+  ],
+  "version": "3.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 49
+}

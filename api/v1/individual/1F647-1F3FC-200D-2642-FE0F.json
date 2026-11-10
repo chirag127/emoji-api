@@ -1,0 +1,21 @@
+{
+  "id": "1F647-1F3FC-200D-2642-FE0F",
+  "emoji": "🙇🏼‍♂️",
+  "name": "man bowing: medium-light skin tone",
+  "codepoints": [
+    "U+1F647",
+    "U+1F3FC",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-gesture",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F647-200D-2642-FE0F",
+  "status": "fully-qualified",
+  "order": 812
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F642",
+  "emoji": "🙂",
+  "name": "slightly smiling face",
+  "codepoints": [
+    "U+1F642"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-smiling",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 8
+}

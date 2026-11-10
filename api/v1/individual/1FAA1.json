@@ -1,0 +1,17 @@
+{
+  "id": "1FAA1",
+  "emoji": "🪡",
+  "name": "sewing needle",
+  "codepoints": [
+    "U+1FAA1"
+  ],
+  "version": "13.0",
+  "group": "Activities",
+  "subgroup": "arts & crafts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3198
+}

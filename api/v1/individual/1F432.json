@@ -1,0 +1,17 @@
+{
+  "id": "1F432",
+  "emoji": "🐲",
+  "name": "dragon face",
+  "codepoints": [
+    "U+1F432"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-reptile",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2695
+}

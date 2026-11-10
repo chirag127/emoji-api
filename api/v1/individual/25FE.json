@@ -1,0 +1,17 @@
+{
+  "id": "25FE",
+  "emoji": "◾",
+  "name": "black medium-small square",
+  "codepoints": [
+    "U+25FE"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "geometric",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3679
+}

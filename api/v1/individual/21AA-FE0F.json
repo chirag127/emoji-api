@@ -1,0 +1,18 @@
+{
+  "id": "21AA-FE0F",
+  "emoji": "↪️",
+  "name": "left arrow curving right",
+  "codepoints": [
+    "U+21AA",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "arrow",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3506
+}

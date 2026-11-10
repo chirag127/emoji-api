@@ -1,0 +1,18 @@
+{
+  "id": "270D-FE0F",
+  "emoji": "✍️",
+  "name": "writing hand",
+  "codepoints": [
+    "U+270D",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 444
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F318",
+  "emoji": "🌘",
+  "name": "waning crescent moon",
+  "codepoints": [
+    "U+1F318"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3075
+}

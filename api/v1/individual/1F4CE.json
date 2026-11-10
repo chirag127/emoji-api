@@ -1,0 +1,17 @@
+{
+  "id": "1F4CE",
+  "emoji": "📎",
+  "name": "paperclip",
+  "codepoints": [
+    "U+1F4CE"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3379
+}

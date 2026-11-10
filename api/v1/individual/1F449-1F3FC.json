@@ -1,0 +1,18 @@
+{
+  "id": "1F449-1F3FC",
+  "emoji": "👉🏼",
+  "name": "backhand index pointing right: medium-light skin tone",
+  "codepoints": [
+    "U+1F449",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F449",
+  "status": "fully-qualified",
+  "order": 300
+}

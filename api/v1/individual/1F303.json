@@ -1,0 +1,17 @@
+{
+  "id": "1F303",
+  "emoji": "🌃",
+  "name": "night with stars",
+  "codepoints": [
+    "U+1F303"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2948
+}

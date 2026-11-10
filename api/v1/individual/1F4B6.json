@@ -1,0 +1,17 @@
+{
+  "id": "1F4B6",
+  "emoji": "💶",
+  "name": "euro banknote",
+  "codepoints": [
+    "U+1F4B6"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "money",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3337
+}

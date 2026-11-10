@@ -1,0 +1,17 @@
+{
+  "id": "1F90C",
+  "emoji": "🤌",
+  "name": "pinched fingers",
+  "codepoints": [
+    "U+1F90C"
+  ],
+  "version": "13.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 244
+}

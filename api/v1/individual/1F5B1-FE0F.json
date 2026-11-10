@@ -1,0 +1,18 @@
+{
+  "id": "1F5B1-FE0F",
+  "emoji": "🖱️",
+  "name": "computer mouse",
+  "codepoints": [
+    "U+1F5B1",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "computer",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3292
+}

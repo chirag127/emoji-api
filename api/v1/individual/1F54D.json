@@ -1,0 +1,17 @@
+{
+  "id": "1F54D",
+  "emoji": "🕍",
+  "name": "synagogue",
+  "codepoints": [
+    "U+1F54D"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "place-religious",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2942
+}

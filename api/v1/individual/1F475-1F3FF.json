@@ -1,0 +1,18 @@
+{
+  "id": "1F475-1F3FF",
+  "emoji": "👵🏿",
+  "name": "old woman: dark skin tone",
+  "codepoints": [
+    "U+1F475",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F475",
+  "status": "fully-qualified",
+  "order": 677
+}

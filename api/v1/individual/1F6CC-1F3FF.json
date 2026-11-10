@@ -1,0 +1,18 @@
+{
+  "id": "1F6CC-1F3FF",
+  "emoji": "🛌🏿",
+  "name": "person in bed: dark skin tone",
+  "codepoints": [
+    "U+1F6CC",
+    "U+1F3FF"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-resting",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F6CC",
+  "status": "fully-qualified",
+  "order": 2253
+}

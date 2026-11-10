@@ -1,0 +1,17 @@
+{
+  "id": "1F4AE",
+  "emoji": "💮",
+  "name": "white flower",
+  "codepoints": [
+    "U+1F4AE"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "plant-flower",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2736
+}

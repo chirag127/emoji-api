@@ -1,0 +1,18 @@
+{
+  "id": "1F64F-1F3FE",
+  "emoji": "🙏🏾",
+  "name": "folded hands: medium-dark skin tone",
+  "codepoints": [
+    "U+1F64F",
+    "U+1F3FE"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F64F",
+  "status": "fully-qualified",
+  "order": 442
+}

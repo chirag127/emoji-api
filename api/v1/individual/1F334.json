@@ -1,0 +1,17 @@
+{
+  "id": "1F334",
+  "emoji": "🌴",
+  "name": "palm tree",
+  "codepoints": [
+    "U+1F334"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2750
+}

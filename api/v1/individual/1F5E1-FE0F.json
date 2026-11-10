@@ -1,0 +1,18 @@
+{
+  "id": "1F5E1-FE0F",
+  "emoji": "🗡️",
+  "name": "dagger",
+  "codepoints": [
+    "U+1F5E1",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3399
+}

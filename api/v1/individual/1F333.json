@@ -1,0 +1,17 @@
+{
+  "id": "1F333",
+  "emoji": "🌳",
+  "name": "deciduous tree",
+  "codepoints": [
+    "U+1F333"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2749
+}

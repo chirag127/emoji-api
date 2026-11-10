@@ -1,0 +1,18 @@
+{
+  "id": "23FA-FE0F",
+  "emoji": "⏺️",
+  "name": "record button",
+  "codepoints": [
+    "U+23FA",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3558
+}

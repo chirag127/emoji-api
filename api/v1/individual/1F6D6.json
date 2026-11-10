@@ -1,0 +1,17 @@
+{
+  "id": "1F6D6",
+  "emoji": "🛖",
+  "name": "hut",
+  "codepoints": [
+    "U+1F6D6"
+  ],
+  "version": "13.0",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2918
+}

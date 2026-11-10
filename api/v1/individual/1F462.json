@@ -1,0 +1,17 @@
+{
+  "id": "1F462",
+  "emoji": "👢",
+  "name": "woman’s boot",
+  "codepoints": [
+    "U+1F462"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3235
+}

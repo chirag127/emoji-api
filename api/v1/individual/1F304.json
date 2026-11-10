@@ -1,0 +1,17 @@
+{
+  "id": "1F304",
+  "emoji": "🌄",
+  "name": "sunrise over mountains",
+  "codepoints": [
+    "U+1F304"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2950
+}

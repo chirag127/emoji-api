@@ -1,0 +1,17 @@
+{
+  "id": "1F4A5",
+  "emoji": "💥",
+  "name": "collision",
+  "codepoints": [
+    "U+1F4A5"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 161
+}

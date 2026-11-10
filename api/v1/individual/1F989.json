@@ -1,0 +1,17 @@
+{
+  "id": "1F989",
+  "emoji": "🦉",
+  "name": "owl",
+  "codepoints": [
+    "U+1F989"
+  ],
+  "version": "3.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2680
+}

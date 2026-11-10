@@ -1,0 +1,17 @@
+{
+  "id": "1F944",
+  "emoji": "🥄",
+  "name": "spoon",
+  "codepoints": [
+    "U+1F944"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "dishware",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2891
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2618-FE0F",
+  "emoji": "☘️",
+  "name": "shamrock",
+  "codepoints": [
+    "U+2618",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2754
+}

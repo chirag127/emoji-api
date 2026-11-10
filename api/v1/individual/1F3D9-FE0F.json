@@ -1,0 +1,18 @@
+{
+  "id": "1F3D9-FE0F",
+  "emoji": "🏙️",
+  "name": "cityscape",
+  "codepoints": [
+    "U+1F3D9",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2949
+}

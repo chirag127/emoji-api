@@ -1,0 +1,18 @@
+{
+  "id": "1F491-1F3FE",
+  "emoji": "💑🏾",
+  "name": "couple with heart: medium-dark skin tone",
+  "codepoints": [
+    "U+1F491",
+    "U+1F3FE"
+  ],
+  "version": "13.1",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F491",
+  "status": "fully-qualified",
+  "order": 2466
+}

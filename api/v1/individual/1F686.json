@@ -1,0 +1,17 @@
+{
+  "id": "1F686",
+  "emoji": "🚆",
+  "name": "train",
+  "codepoints": [
+    "U+1F686"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2966
+}

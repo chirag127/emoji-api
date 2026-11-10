@@ -1,0 +1,17 @@
+{
+  "id": "1F9D1",
+  "emoji": "🧑",
+  "name": "person",
+  "codepoints": [
+    "U+1F9D1"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 534
+}

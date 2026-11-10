@@ -1,0 +1,17 @@
+{
+  "id": "1F68E",
+  "emoji": "🚎",
+  "name": "trolleybus",
+  "codepoints": [
+    "U+1F68E"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2976
+}

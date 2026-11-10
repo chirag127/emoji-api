@@ -1,0 +1,17 @@
+{
+  "id": "270B",
+  "emoji": "✋",
+  "name": "raised hand",
+  "codepoints": [
+    "U+270B"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 190
+}

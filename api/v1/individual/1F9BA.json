@@ -1,0 +1,17 @@
+{
+  "id": "1F9BA",
+  "emoji": "🦺",
+  "name": "safety vest",
+  "codepoints": [
+    "U+1F9BA"
+  ],
+  "version": "12.0",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3205
+}

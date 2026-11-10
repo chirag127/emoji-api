@@ -1,0 +1,17 @@
+{
+  "id": "1F98B",
+  "emoji": "🦋",
+  "name": "butterfly",
+  "codepoints": [
+    "U+1F98B"
+  ],
+  "version": "3.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2718
+}

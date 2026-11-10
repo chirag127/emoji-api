@@ -1,0 +1,17 @@
+{
+  "id": "1F4BC",
+  "emoji": "💼",
+  "name": "briefcase",
+  "codepoints": [
+    "U+1F4BC"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3364
+}

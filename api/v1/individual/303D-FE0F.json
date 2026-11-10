@@ -1,0 +1,18 @@
+{
+  "id": "303D-FE0F",
+  "emoji": "〽️",
+  "name": "part alternation mark",
+  "codepoints": [
+    "U+303D",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "other-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3599
+}

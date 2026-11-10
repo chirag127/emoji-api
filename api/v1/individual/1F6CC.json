@@ -1,0 +1,17 @@
+{
+  "id": "1F6CC",
+  "emoji": "🛌",
+  "name": "person in bed",
+  "codepoints": [
+    "U+1F6CC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-resting",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2248
+}

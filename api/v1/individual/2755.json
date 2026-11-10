@@ -1,0 +1,17 @@
+{
+  "id": "2755",
+  "emoji": "❕",
+  "name": "white exclamation mark",
+  "codepoints": [
+    "U+2755"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "punctuation",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3580
+}

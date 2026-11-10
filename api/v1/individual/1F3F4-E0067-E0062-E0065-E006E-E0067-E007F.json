@@ -1,0 +1,23 @@
+{
+  "id": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
+  "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "name": "flag: England",
+  "codepoints": [
+    "U+1F3F4",
+    "U+E0067",
+    "U+E0062",
+    "U+E0065",
+    "U+E006E",
+    "U+E0067",
+    "U+E007F"
+  ],
+  "version": "5.0",
+  "group": "Flags",
+  "subgroup": "subdivision-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3960
+}

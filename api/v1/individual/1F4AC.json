@@ -1,0 +1,17 @@
+{
+  "id": "1F4AC",
+  "emoji": "💬",
+  "name": "speech balloon",
+  "codepoints": [
+    "U+1F4AC"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 166
+}

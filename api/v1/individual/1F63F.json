@@ -1,0 +1,17 @@
+{
+  "id": "1F63F",
+  "emoji": "😿",
+  "name": "crying cat",
+  "codepoints": [
+    "U+1F63F"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "cat-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 127
+}

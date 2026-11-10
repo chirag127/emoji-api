@@ -1,0 +1,17 @@
+{
+  "id": "1F92C",
+  "emoji": "🤬",
+  "name": "face with symbols on mouth",
+  "codepoints": [
+    "U+1F92C"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 107
+}

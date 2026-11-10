@@ -1,0 +1,20 @@
+{
+  "id": "1F9D1-1F3FD-200D-1F9B3",
+  "emoji": "🧑🏽‍🦳",
+  "name": "person: medium skin tone, white hair",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FD",
+    "U+200D",
+    "U+1F9B3"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 633
+}

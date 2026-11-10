@@ -1,0 +1,17 @@
+{
+  "id": "1F48B",
+  "emoji": "💋",
+  "name": "kiss mark",
+  "codepoints": [
+    "U+1F48B"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 157
+}

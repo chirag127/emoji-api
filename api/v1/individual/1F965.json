@@ -1,0 +1,17 @@
+{
+  "id": "1F965",
+  "emoji": "🥥",
+  "name": "coconut",
+  "codepoints": [
+    "U+1F965"
+  ],
+  "version": "5.0",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2782
+}

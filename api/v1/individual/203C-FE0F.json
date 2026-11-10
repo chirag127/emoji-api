@@ -1,0 +1,18 @@
+{
+  "id": "203C-FE0F",
+  "emoji": "‼️",
+  "name": "double exclamation mark",
+  "codepoints": [
+    "U+203C",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "punctuation",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3576
+}

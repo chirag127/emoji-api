@@ -1,0 +1,17 @@
+{
+  "id": "1F199",
+  "emoji": "🆙",
+  "name": "UP! button",
+  "codepoints": [
+    "U+1F199"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "alphanum",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3640
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F3D2",
+  "emoji": "🏒",
+  "name": "ice hockey",
+  "codepoints": [
+    "U+1F3D2"
+  ],
+  "version": "1.0",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3155
+}

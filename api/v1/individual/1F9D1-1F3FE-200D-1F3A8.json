@@ -1,0 +1,20 @@
+{
+  "id": "1F9D1-1F3FE-200D-1F3A8",
+  "emoji": "🧑🏾‍🎨",
+  "name": "artist: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+1F3A8"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9D1-200D-1F3A8",
+  "status": "fully-qualified",
+  "order": 1078
+}

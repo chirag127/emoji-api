@@ -1,0 +1,17 @@
+{
+  "id": "264F",
+  "emoji": "♏",
+  "name": "Scorpio",
+  "codepoints": [
+    "U+264F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3536
+}

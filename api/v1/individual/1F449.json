@@ -1,0 +1,17 @@
+{
+  "id": "1F449",
+  "emoji": "👉",
+  "name": "backhand index pointing right",
+  "codepoints": [
+    "U+1F449"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 298
+}

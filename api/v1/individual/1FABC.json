@@ -1,0 +1,17 @@
+{
+  "id": "1FABC",
+  "emoji": "🪼",
+  "name": "jellyfish",
+  "codepoints": [
+    "U+1FABC"
+  ],
+  "version": "15.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2711
+}

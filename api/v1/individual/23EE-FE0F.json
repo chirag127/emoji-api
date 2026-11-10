@@ -1,0 +1,18 @@
+{
+  "id": "23EE-FE0F",
+  "emoji": "⏮️",
+  "name": "last track button",
+  "codepoints": [
+    "U+23EE",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3551
+}

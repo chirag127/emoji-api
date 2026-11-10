@@ -1,0 +1,19 @@
+{
+  "id": "1F635-200D-1F4AB",
+  "emoji": "😵‍💫",
+  "name": "face with spiral eyes",
+  "codepoints": [
+    "U+1F635",
+    "U+200D",
+    "U+1F4AB"
+  ],
+  "version": "13.1",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 69
+}

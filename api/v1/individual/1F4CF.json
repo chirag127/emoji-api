@@ -1,0 +1,17 @@
+{
+  "id": "1F4CF",
+  "emoji": "📏",
+  "name": "straight ruler",
+  "codepoints": [
+    "U+1F4CF"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "office",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3381
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F559",
+  "emoji": "🕙",
+  "name": "ten o’clock",
+  "codepoints": [
+    "U+1F559"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3064
+}

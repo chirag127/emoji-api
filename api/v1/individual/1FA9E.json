@@ -1,0 +1,17 @@
+{
+  "id": "1FA9E",
+  "emoji": "🪞",
+  "name": "mirror",
+  "codepoints": [
+    "U+1FA9E"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "household",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3437
+}

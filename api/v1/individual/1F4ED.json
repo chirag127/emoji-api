@@ -1,0 +1,17 @@
+{
+  "id": "1F4ED",
+  "emoji": "📭",
+  "name": "open mailbox with lowered flag",
+  "codepoints": [
+    "U+1F4ED"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3353
+}

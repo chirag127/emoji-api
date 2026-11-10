@@ -1,0 +1,18 @@
+{
+  "id": "25FB-FE0F",
+  "emoji": "◻️",
+  "name": "white medium square",
+  "codepoints": [
+    "U+25FB",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "geometric",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3678
+}

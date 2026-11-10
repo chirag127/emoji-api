@@ -1,0 +1,18 @@
+{
+  "id": "1F485-1F3FF",
+  "emoji": "💅🏿",
+  "name": "nail polish: dark skin tone",
+  "codepoints": [
+    "U+1F485",
+    "U+1F3FF"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-prop",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F485",
+  "status": "fully-qualified",
+  "order": 455
+}

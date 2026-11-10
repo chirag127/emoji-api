@@ -1,0 +1,17 @@
+{
+  "id": "1F494",
+  "emoji": "💔",
+  "name": "broken heart",
+  "codepoints": [
+    "U+1F494"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 142
+}

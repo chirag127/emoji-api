@@ -1,0 +1,19 @@
+{
+  "id": "002A-FE0F-20E3",
+  "emoji": "*️⃣",
+  "name": "keycap: *",
+  "codepoints": [
+    "U+002A",
+    "U+FE0F",
+    "U+20E3"
+  ],
+  "version": "2.0",
+  "group": "Symbols",
+  "subgroup": "keycap",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3608
+}

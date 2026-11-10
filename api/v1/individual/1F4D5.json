@@ -1,0 +1,17 @@
+{
+  "id": "1F4D5",
+  "emoji": "📕",
+  "name": "closed book",
+  "codepoints": [
+    "U+1F4D5"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "book-paper",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3316
+}

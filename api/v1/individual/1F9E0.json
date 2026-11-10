@@ -1,0 +1,17 @@
+{
+  "id": "1F9E0",
+  "emoji": "🧠",
+  "name": "brain",
+  "codepoints": [
+    "U+1F9E0"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 500
+}

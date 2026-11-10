@@ -1,0 +1,17 @@
+{
+  "id": "1F635",
+  "emoji": "😵",
+  "name": "face with crossed-out eyes",
+  "codepoints": [
+    "U+1F635"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-unwell",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 68
+}

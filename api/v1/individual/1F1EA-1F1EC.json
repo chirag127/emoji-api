@@ -1,0 +1,18 @@
+{
+  "id": "1F1EA-1F1EC",
+  "emoji": "🇪🇬",
+  "name": "flag: Egypt",
+  "codepoints": [
+    "U+1F1EA",
+    "U+1F1EC"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3770
+}

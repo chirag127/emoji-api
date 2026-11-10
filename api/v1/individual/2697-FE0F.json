@@ -1,0 +1,18 @@
+{
+  "id": "2697-FE0F",
+  "emoji": "⚗️",
+  "name": "alembic",
+  "codepoints": [
+    "U+2697",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "science",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3421
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1F9D4-1F3FF-200D-2642-FE0F",
+  "emoji": "🧔🏿‍♂️",
+  "name": "man: dark skin tone, beard",
+  "codepoints": [
+    "U+1F9D4",
+    "U+1F3FF",
+    "U+200D",
+    "U+2642",
+    "U+FE0F"
+  ],
+  "version": "13.1",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 563
+}

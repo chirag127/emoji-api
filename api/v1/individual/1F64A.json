@@ -1,0 +1,17 @@
+{
+  "id": "1F64A",
+  "emoji": "🙊",
+  "name": "speak-no-evil monkey",
+  "codepoints": [
+    "U+1F64A"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "monkey-face",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 131
+}

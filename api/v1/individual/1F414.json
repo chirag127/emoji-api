@@ -1,0 +1,17 @@
+{
+  "id": "1F414",
+  "emoji": "🐔",
+  "name": "chicken",
+  "codepoints": [
+    "U+1F414"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2669
+}

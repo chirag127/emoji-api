@@ -1,0 +1,17 @@
+{
+  "id": "1F508",
+  "emoji": "🔈",
+  "name": "speaker low volume",
+  "codepoints": [
+    "U+1F508"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "sound",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3249
+}

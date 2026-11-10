@@ -1,0 +1,20 @@
+{
+  "id": "1F93D-200D-2640-FE0F",
+  "emoji": "🤽‍♀️",
+  "name": "woman playing water polo",
+  "codepoints": [
+    "U+1F93D",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2182
+}

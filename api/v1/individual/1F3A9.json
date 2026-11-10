@@ -1,0 +1,17 @@
+{
+  "id": "1F3A9",
+  "emoji": "🎩",
+  "name": "top hat",
+  "codepoints": [
+    "U+1F3A9"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3239
+}

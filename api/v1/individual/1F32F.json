@@ -1,0 +1,17 @@
+{
+  "id": "1F32F",
+  "emoji": "🌯",
+  "name": "burrito",
+  "codepoints": [
+    "U+1F32F"
+  ],
+  "version": "1.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2822
+}

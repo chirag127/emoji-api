@@ -1,0 +1,18 @@
+{
+  "id": "1F46D-1F3FC",
+  "emoji": "👭🏼",
+  "name": "women holding hands: medium-light skin tone",
+  "codepoints": [
+    "U+1F46D",
+    "U+1F3FC"
+  ],
+  "version": "12.0",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F46D",
+  "status": "fully-qualified",
+  "order": 2287
+}

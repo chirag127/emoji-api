@@ -1,0 +1,17 @@
+{
+  "id": "1F971",
+  "emoji": "🥱",
+  "name": "yawning face",
+  "codepoints": [
+    "U+1F971"
+  ],
+  "version": "12.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-concerned",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 103
+}

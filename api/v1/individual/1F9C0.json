@@ -1,0 +1,17 @@
+{
+  "id": "1F9C0",
+  "emoji": "🧀",
+  "name": "cheese wedge",
+  "codepoints": [
+    "U+1F9C0"
+  ],
+  "version": "1.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2811
+}

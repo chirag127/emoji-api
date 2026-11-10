@@ -1,0 +1,19 @@
+{
+  "id": "1F469-200D-1F3A8",
+  "emoji": "👩‍🎨",
+  "name": "woman artist",
+  "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+1F3A8"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1086
+}

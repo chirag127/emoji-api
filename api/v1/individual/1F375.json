@@ -1,0 +1,17 @@
+{
+  "id": "1F375",
+  "emoji": "🍵",
+  "name": "teacup without handle",
+  "codepoints": [
+    "U+1F375"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2872
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F57A-1F3FF",
+  "emoji": "🕺🏿",
+  "name": "man dancing: dark skin tone",
+  "codepoints": [
+    "U+1F57A",
+    "U+1F3FF"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F57A",
+  "status": "fully-qualified",
+  "order": 1795
+}

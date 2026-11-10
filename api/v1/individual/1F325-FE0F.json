@@ -1,0 +1,18 @@
+{
+  "id": "1F325-FE0F",
+  "emoji": "🌥️",
+  "name": "sun behind large cloud",
+  "codepoints": [
+    "U+1F325",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3093
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F1EC-1F1FA",
+  "emoji": "🇬🇺",
+  "name": "flag: Guam",
+  "codepoints": [
+    "U+1F1EC",
+    "U+1F1FA"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3798
+}

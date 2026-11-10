@@ -1,0 +1,18 @@
+{
+  "id": "1FAF1-1F3FC",
+  "emoji": "🫱🏼",
+  "name": "rightwards hand: medium-light skin tone",
+  "codepoints": [
+    "U+1FAF1",
+    "U+1F3FC"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1FAF1",
+  "status": "fully-qualified",
+  "order": 204
+}

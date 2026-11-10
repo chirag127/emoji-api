@@ -1,0 +1,23 @@
+{
+  "id": "1F468-1F3FB-200D-1FAEF-200D-1F468-1F3FE",
+  "emoji": "👨🏻‍🫯‍👨🏾",
+  "name": "men wrestling: light skin tone, medium-dark skin tone",
+  "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+1FAEF",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+  ],
+  "version": "17.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2132
+}

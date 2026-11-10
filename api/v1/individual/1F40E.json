@@ -1,0 +1,17 @@
+{
+  "id": "1F40E",
+  "emoji": "🐎",
+  "name": "horse",
+  "codepoints": [
+    "U+1F40E"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2624
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F6A8",
+  "emoji": "🚨",
+  "name": "police car light",
+  "codepoints": [
+    "U+1F6A8"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3007
+}

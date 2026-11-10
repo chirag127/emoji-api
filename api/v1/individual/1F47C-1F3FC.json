@@ -1,0 +1,18 @@
+{
+  "id": "1F47C-1F3FC",
+  "emoji": "👼🏼",
+  "name": "baby angel: medium-light skin tone",
+  "codepoints": [
+    "U+1F47C",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F47C",
+  "status": "fully-qualified",
+  "order": 1352
+}

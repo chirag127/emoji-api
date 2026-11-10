@@ -1,0 +1,17 @@
+{
+  "id": "1F54B",
+  "emoji": "🕋",
+  "name": "kaaba",
+  "codepoints": [
+    "U+1F54B"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "place-religious",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2944
+}

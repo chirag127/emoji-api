@@ -1,0 +1,17 @@
+{
+  "id": "1F9C1",
+  "emoji": "🧁",
+  "name": "cupcake",
+  "codepoints": [
+    "U+1F9C1"
+  ],
+  "version": "11.0",
+  "group": "Food & Drink",
+  "subgroup": "food-sweet",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2861
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F519",
+  "emoji": "🔙",
+  "name": "BACK arrow",
+  "codepoints": [
+    "U+1F519"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "arrow",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3511
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FA76",
+  "emoji": "🩶",
+  "name": "grey heart",
+  "codepoints": [
+    "U+1FA76"
+  ],
+  "version": "15.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 155
+}

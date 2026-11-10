@@ -1,0 +1,17 @@
+{
+  "id": "1F45D",
+  "emoji": "👝",
+  "name": "clutch bag",
+  "codepoints": [
+    "U+1F45D"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3224
+}

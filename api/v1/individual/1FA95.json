@@ -1,0 +1,17 @@
+{
+  "id": "1FA95",
+  "emoji": "🪕",
+  "name": "banjo",
+  "codepoints": [
+    "U+1FA95"
+  ],
+  "version": "12.0",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3273
+}

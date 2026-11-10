@@ -1,0 +1,17 @@
+{
+  "id": "1FAB5",
+  "emoji": "🪵",
+  "name": "wood",
+  "codepoints": [
+    "U+1FAB5"
+  ],
+  "version": "13.0",
+  "group": "Travel & Places",
+  "subgroup": "place-building",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2917
+}

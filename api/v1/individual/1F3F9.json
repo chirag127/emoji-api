@@ -1,0 +1,17 @@
+{
+  "id": "1F3F9",
+  "emoji": "🏹",
+  "name": "bow and arrow",
+  "codepoints": [
+    "U+1F3F9"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3403
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F4AD",
+  "emoji": "💭",
+  "name": "thought balloon",
+  "codepoints": [
+    "U+1F4AD"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 170
+}

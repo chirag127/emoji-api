@@ -1,0 +1,17 @@
+{
+  "id": "1F92B",
+  "emoji": "🤫",
+  "name": "shushing face",
+  "codepoints": [
+    "U+1F92B"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hand",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 34
+}

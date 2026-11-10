@@ -1,0 +1,17 @@
+{
+  "id": "1F980",
+  "emoji": "🦀",
+  "name": "crab",
+  "codepoints": [
+    "U+1F980"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2712
+}

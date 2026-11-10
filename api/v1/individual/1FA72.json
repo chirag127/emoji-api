@@ -1,0 +1,17 @@
+{
+  "id": "1FA72",
+  "emoji": "🩲",
+  "name": "briefs",
+  "codepoints": [
+    "U+1FA72"
+  ],
+  "version": "12.0",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3217
+}

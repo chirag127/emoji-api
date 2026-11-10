@@ -1,0 +1,18 @@
+{
+  "id": "1F3CC-1F3FD",
+  "emoji": "🏌🏽",
+  "name": "person golfing: medium skin tone",
+  "codepoints": [
+    "U+1F3CC",
+    "U+1F3FD"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F3CC-FE0F",
+  "status": "fully-qualified",
+  "order": 1933
+}

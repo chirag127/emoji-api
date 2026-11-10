@@ -1,0 +1,17 @@
+{
+  "id": "1F4B5",
+  "emoji": "💵",
+  "name": "dollar banknote",
+  "codepoints": [
+    "U+1F4B5"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "money",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3336
+}

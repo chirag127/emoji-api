@@ -1,0 +1,17 @@
+{
+  "id": "1F4E5",
+  "emoji": "📥",
+  "name": "inbox tray",
+  "codepoints": [
+    "U+1F4E5"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3348
+}

@@ -1,0 +1,18 @@
+{
+  "id": "262F-FE0F",
+  "emoji": "☯️",
+  "name": "yin yang",
+  "codepoints": [
+    "U+262F",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "religion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3521
+}

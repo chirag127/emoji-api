@@ -1,0 +1,17 @@
+{
+  "id": "1F50C",
+  "emoji": "🔌",
+  "name": "electric plug",
+  "codepoints": [
+    "U+1F50C"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "computer",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3287
+}

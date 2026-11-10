@@ -1,0 +1,18 @@
+{
+  "id": "1F570-FE0F",
+  "emoji": "🕰️",
+  "name": "mantelpiece clock",
+  "codepoints": [
+    "U+1F570",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3043
+}

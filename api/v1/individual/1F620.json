@@ -1,0 +1,17 @@
+{
+  "id": "1F620",
+  "emoji": "😠",
+  "name": "angry face",
+  "codepoints": [
+    "U+1F620"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 106
+}

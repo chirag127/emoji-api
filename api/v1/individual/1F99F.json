@@ -1,0 +1,17 @@
+{
+  "id": "1F99F",
+  "emoji": "🦟",
+  "name": "mosquito",
+  "codepoints": [
+    "U+1F99F"
+  ],
+  "version": "11.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2730
+}

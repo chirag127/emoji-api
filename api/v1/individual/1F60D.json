@@ -1,0 +1,17 @@
+{
+  "id": "1F60D",
+  "emoji": "😍",
+  "name": "smiling face with heart-eyes",
+  "codepoints": [
+    "U+1F60D"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-affection",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 16
+}

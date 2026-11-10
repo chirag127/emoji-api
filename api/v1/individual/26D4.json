@@ -1,0 +1,17 @@
+{
+  "id": "26D4",
+  "emoji": "⛔",
+  "name": "no entry",
+  "codepoints": [
+    "U+26D4"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "warning",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3484
+}

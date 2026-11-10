@@ -1,0 +1,17 @@
+{
+  "id": "1F97D",
+  "emoji": "🥽",
+  "name": "goggles",
+  "codepoints": [
+    "U+1F97D"
+  ],
+  "version": "11.0",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3203
+}

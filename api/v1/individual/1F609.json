@@ -1,0 +1,17 @@
+{
+  "id": "1F609",
+  "emoji": "😉",
+  "name": "winking face",
+  "codepoints": [
+    "U+1F609"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-smiling",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 12
+}

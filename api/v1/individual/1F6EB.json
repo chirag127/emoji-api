@@ -1,0 +1,17 @@
+{
+  "id": "1F6EB",
+  "emoji": "🛫",
+  "name": "airplane departure",
+  "codepoints": [
+    "U+1F6EB"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-air",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3024
+}

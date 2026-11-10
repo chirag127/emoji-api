@@ -1,0 +1,18 @@
+{
+  "id": "1F5BC-FE0F",
+  "emoji": "🖼️",
+  "name": "framed picture",
+  "codepoints": [
+    "U+1F5BC",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Activities",
+  "subgroup": "arts & crafts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3195
+}

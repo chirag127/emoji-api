@@ -1,0 +1,20 @@
+{
+  "id": "1F469-200D-2708-FE0F",
+  "emoji": "👩‍✈️",
+  "name": "woman pilot",
+  "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+2708",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1104
+}

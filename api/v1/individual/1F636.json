@@ -1,0 +1,17 @@
+{
+  "id": "1F636",
+  "emoji": "😶",
+  "name": "face without mouth",
+  "codepoints": [
+    "U+1F636"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 41
+}

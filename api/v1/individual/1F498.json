@@ -1,0 +1,17 @@
+{
+  "id": "1F498",
+  "emoji": "💘",
+  "name": "heart with arrow",
+  "codepoints": [
+    "U+1F498"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 133
+}

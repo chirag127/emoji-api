@@ -1,0 +1,18 @@
+{
+  "id": "1FAC5-1F3FF",
+  "emoji": "🫅🏿",
+  "name": "person with crown: dark skin tone",
+  "codepoints": [
+    "U+1FAC5",
+    "U+1F3FF"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1FAC5",
+  "status": "fully-qualified",
+  "order": 1229
+}

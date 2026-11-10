@@ -1,0 +1,18 @@
+{
+  "id": "1F1E8-1F1FB",
+  "emoji": "🇨🇻",
+  "name": "flag: Cape Verde",
+  "codepoints": [
+    "U+1F1E8",
+    "U+1F1FB"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3755
+}

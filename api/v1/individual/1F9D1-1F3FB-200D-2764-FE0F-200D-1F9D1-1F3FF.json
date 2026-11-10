@@ -1,0 +1,24 @@
+{
+  "id": "1F9D1-1F3FB-200D-2764-FE0F-200D-1F9D1-1F3FF",
+  "emoji": "🧑🏻‍❤️‍🧑🏿",
+  "name": "couple with heart: person, person, light skin tone, dark skin tone",
+  "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FF"
+  ],
+  "version": "13.1",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2471
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F92D",
+  "emoji": "🤭",
+  "name": "face with hand over mouth",
+  "codepoints": [
+    "U+1F92D"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hand",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 31
+}

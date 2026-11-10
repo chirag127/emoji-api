@@ -1,0 +1,18 @@
+{
+  "id": "2716-FE0F",
+  "emoji": "✖️",
+  "name": "multiply",
+  "codepoints": [
+    "U+2716",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "math",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3570
+}

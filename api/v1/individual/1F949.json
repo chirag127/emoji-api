@@ -1,0 +1,17 @@
+{
+  "id": "1F949",
+  "emoji": "🥉",
+  "name": "3rd place medal",
+  "codepoints": [
+    "U+1F949"
+  ],
+  "version": "3.0",
+  "group": "Activities",
+  "subgroup": "award-medal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3142
+}

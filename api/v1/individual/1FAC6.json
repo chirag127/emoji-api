@@ -1,0 +1,17 @@
+{
+  "id": "1FAC6",
+  "emoji": "🫆",
+  "name": "fingerprint",
+  "codepoints": [
+    "U+1FAC6"
+  ],
+  "version": "16.0",
+  "group": "People & Body",
+  "subgroup": "person-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2601
+}

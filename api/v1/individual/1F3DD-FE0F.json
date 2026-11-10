@@ -1,0 +1,18 @@
+{
+  "id": "1F3DD-FE0F",
+  "emoji": "🏝️",
+  "name": "desert island",
+  "codepoints": [
+    "U+1F3DD",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "place-geographic",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2910
+}

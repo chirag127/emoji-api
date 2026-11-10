@@ -1,0 +1,17 @@
+{
+  "id": "1F692",
+  "emoji": "🚒",
+  "name": "fire engine",
+  "codepoints": [
+    "U+1F692"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2979
+}

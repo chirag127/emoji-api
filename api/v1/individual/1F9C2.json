@@ -1,0 +1,17 @@
+{
+  "id": "1F9C2",
+  "emoji": "🧂",
+  "name": "salt",
+  "codepoints": [
+    "U+1F9C2"
+  ],
+  "version": "11.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2835
+}

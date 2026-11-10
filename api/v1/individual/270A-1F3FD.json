@@ -1,0 +1,18 @@
+{
+  "id": "270A-1F3FD",
+  "emoji": "✊🏽",
+  "name": "raised fist: medium skin tone",
+  "codepoints": [
+    "U+270A",
+    "U+1F3FD"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-closed",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "270A",
+  "status": "fully-qualified",
+  "order": 361
+}

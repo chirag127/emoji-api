@@ -1,0 +1,17 @@
+{
+  "id": "1F0CF",
+  "emoji": "🃏",
+  "name": "joker",
+  "codepoints": [
+    "U+1F0CF"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3191
+}

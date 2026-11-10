@@ -1,0 +1,17 @@
+{
+  "id": "1F930",
+  "emoji": "🤰",
+  "name": "pregnant woman",
+  "codepoints": [
+    "U+1F930"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1308
+}

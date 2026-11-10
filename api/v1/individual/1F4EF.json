@@ -1,0 +1,17 @@
+{
+  "id": "1F4EF",
+  "emoji": "📯",
+  "name": "postal horn",
+  "codepoints": [
+    "U+1F4EF"
+  ],
+  "version": "1.0",
+  "group": "Objects",
+  "subgroup": "sound",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3254
+}

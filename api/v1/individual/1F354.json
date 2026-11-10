@@ -1,0 +1,17 @@
+{
+  "id": "1F354",
+  "emoji": "🍔",
+  "name": "hamburger",
+  "codepoints": [
+    "U+1F354"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2816
+}

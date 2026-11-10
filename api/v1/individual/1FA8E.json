@@ -1,0 +1,17 @@
+{
+  "id": "1FA8E",
+  "emoji": "🪎",
+  "name": "treasure chest",
+  "codepoints": [
+    "U+1FA8E"
+  ],
+  "version": "17.0",
+  "group": "Objects",
+  "subgroup": "money",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3334
+}

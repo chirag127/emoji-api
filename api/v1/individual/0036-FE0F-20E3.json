@@ -1,0 +1,19 @@
+{
+  "id": "0036-FE0F-20E3",
+  "emoji": "6️⃣",
+  "name": "keycap: 6",
+  "codepoints": [
+    "U+0036",
+    "U+FE0F",
+    "U+20E3"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "keycap",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3615
+}

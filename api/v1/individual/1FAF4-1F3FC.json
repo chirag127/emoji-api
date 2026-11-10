@@ -1,0 +1,18 @@
+{
+  "id": "1FAF4-1F3FC",
+  "emoji": "🫴🏼",
+  "name": "palm up hand: medium-light skin tone",
+  "codepoints": [
+    "U+1FAF4",
+    "U+1F3FC"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-open",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1FAF4",
+  "status": "fully-qualified",
+  "order": 222
+}

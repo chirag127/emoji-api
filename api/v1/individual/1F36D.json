@@ -1,0 +1,17 @@
+{
+  "id": "1F36D",
+  "emoji": "🍭",
+  "name": "lollipop",
+  "codepoints": [
+    "U+1F36D"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-sweet",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2865
+}

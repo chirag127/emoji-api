@@ -1,0 +1,17 @@
+{
+  "id": "1F47F",
+  "emoji": "👿",
+  "name": "angry face with horns",
+  "codepoints": [
+    "U+1F47F"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-negative",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 109
+}

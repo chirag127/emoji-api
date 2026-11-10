@@ -1,0 +1,18 @@
+{
+  "id": "1F478-1F3FD",
+  "emoji": "👸🏽",
+  "name": "princess: medium skin tone",
+  "codepoints": [
+    "U+1F478",
+    "U+1F3FD"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F478",
+  "status": "fully-qualified",
+  "order": 1239
+}

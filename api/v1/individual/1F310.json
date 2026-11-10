@@ -1,0 +1,17 @@
+{
+  "id": "1F310",
+  "emoji": "🌐",
+  "name": "globe with meridians",
+  "codepoints": [
+    "U+1F310"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "place-map",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2898
+}

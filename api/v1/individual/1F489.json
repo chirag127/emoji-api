@@ -1,0 +1,17 @@
+{
+  "id": "1F489",
+  "emoji": "💉",
+  "name": "syringe",
+  "codepoints": [
+    "U+1F489"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "medical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3428
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F34D",
+  "emoji": "🍍",
+  "name": "pineapple",
+  "codepoints": [
+    "U+1F34D"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-fruit",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2770
+}

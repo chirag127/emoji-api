@@ -1,0 +1,17 @@
+{
+  "id": "1F929",
+  "emoji": "🤩",
+  "name": "star-struck",
+  "codepoints": [
+    "U+1F929"
+  ],
+  "version": "5.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-affection",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 17
+}

@@ -1,0 +1,18 @@
+{
+  "id": "26F4-FE0F",
+  "emoji": "⛴️",
+  "name": "ferry",
+  "codepoints": [
+    "U+26F4",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "transport-water",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3019
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2602-FE0F",
+  "emoji": "☂️",
+  "name": "umbrella",
+  "codepoints": [
+    "U+2602",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3104
+}

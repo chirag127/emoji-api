@@ -1,0 +1,18 @@
+{
+  "id": "1F1FA-1F1F3",
+  "emoji": "🇺🇳",
+  "name": "flag: United Nations",
+  "codepoints": [
+    "U+1F1FA",
+    "U+1F1F3"
+  ],
+  "version": "4.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3941
+}

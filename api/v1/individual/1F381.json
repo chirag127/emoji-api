@@ -1,0 +1,17 @@
+{
+  "id": "1F381",
+  "emoji": "🎁",
+  "name": "wrapped gift",
+  "codepoints": [
+    "U+1F381"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3133
+}

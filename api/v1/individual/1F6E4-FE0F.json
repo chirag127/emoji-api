@@ -1,0 +1,18 @@
+{
+  "id": "1F6E4-FE0F",
+  "emoji": "🛤️",
+  "name": "railway track",
+  "codepoints": [
+    "U+1F6E4",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3003
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAC4",
+  "emoji": "🫄",
+  "name": "pregnant person",
+  "codepoints": [
+    "U+1FAC4"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1320
+}

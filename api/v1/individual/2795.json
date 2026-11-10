@@ -1,0 +1,17 @@
+{
+  "id": "2795",
+  "emoji": "➕",
+  "name": "plus",
+  "codepoints": [
+    "U+2795"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "math",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3571
+}

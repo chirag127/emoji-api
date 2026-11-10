@@ -1,0 +1,17 @@
+{
+  "id": "1F306",
+  "emoji": "🌆",
+  "name": "cityscape at dusk",
+  "codepoints": [
+    "U+1F306"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "place-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2952
+}

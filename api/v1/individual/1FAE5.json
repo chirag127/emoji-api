@@ -1,0 +1,17 @@
+{
+  "id": "1FAE5",
+  "emoji": "🫥",
+  "name": "dotted line face",
+  "codepoints": [
+    "U+1FAE5"
+  ],
+  "version": "14.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 42
+}

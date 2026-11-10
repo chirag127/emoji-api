@@ -1,0 +1,17 @@
+{
+  "id": "1F490",
+  "emoji": "💐",
+  "name": "bouquet",
+  "codepoints": [
+    "U+1F490"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "plant-flower",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2734
+}

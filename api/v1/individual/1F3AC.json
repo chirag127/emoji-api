@@ -1,0 +1,17 @@
+{
+  "id": "1F3AC",
+  "emoji": "🎬",
+  "name": "clapper board",
+  "codepoints": [
+    "U+1F3AC"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "light & video",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3302
+}

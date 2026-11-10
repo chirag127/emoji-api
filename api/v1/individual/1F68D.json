@@ -1,0 +1,17 @@
+{
+  "id": "1F68D",
+  "emoji": "🚍",
+  "name": "oncoming bus",
+  "codepoints": [
+    "U+1F68D"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2975
+}

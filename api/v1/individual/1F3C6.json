@@ -1,0 +1,17 @@
+{
+  "id": "1F3C6",
+  "emoji": "🏆",
+  "name": "trophy",
+  "codepoints": [
+    "U+1F3C6"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "award-medal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3138
+}

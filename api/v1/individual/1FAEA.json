@@ -1,0 +1,17 @@
+{
+  "id": "1FAEA",
+  "emoji": "🫪",
+  "name": "distorted face",
+  "codepoints": [
+    "U+1FAEA"
+  ],
+  "version": "17.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-concerned",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 86
+}

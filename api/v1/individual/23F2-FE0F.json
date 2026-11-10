@@ -1,0 +1,18 @@
+{
+  "id": "23F2-FE0F",
+  "emoji": "⏲️",
+  "name": "timer clock",
+  "codepoints": [
+    "U+23F2",
+    "U+FE0F"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "time",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3042
+}

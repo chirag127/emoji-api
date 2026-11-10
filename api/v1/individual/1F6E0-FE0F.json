@@ -1,0 +1,18 @@
+{
+  "id": "1F6E0-FE0F",
+  "emoji": "🛠️",
+  "name": "hammer and wrench",
+  "codepoints": [
+    "U+1F6E0",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3398
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1FAAD",
+  "emoji": "🪭",
+  "name": "folding hand fan",
+  "codepoints": [
+    "U+1FAAD"
+  ],
+  "version": "15.0",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3221
+}

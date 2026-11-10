@@ -1,0 +1,18 @@
+{
+  "id": "1F595-1F3FB",
+  "emoji": "🖕🏻",
+  "name": "middle finger: light skin tone",
+  "codepoints": [
+    "U+1F595",
+    "U+1F3FB"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F595",
+  "status": "fully-qualified",
+  "order": 311
+}

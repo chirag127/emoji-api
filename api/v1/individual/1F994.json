@@ -1,0 +1,17 @@
+{
+  "id": "1F994",
+  "emoji": "🦔",
+  "name": "hedgehog",
+  "codepoints": [
+    "U+1F994"
+  ],
+  "version": "5.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2656
+}

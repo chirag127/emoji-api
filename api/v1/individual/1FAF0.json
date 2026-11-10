@@ -1,0 +1,17 @@
+{
+  "id": "1FAF0",
+  "emoji": "🫰",
+  "name": "hand with index finger and thumb crossed",
+  "codepoints": [
+    "U+1FAF0"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-fingers-partial",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 268
+}

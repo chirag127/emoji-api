@@ -1,0 +1,17 @@
+{
+  "id": "1F986",
+  "emoji": "🦆",
+  "name": "duck",
+  "codepoints": [
+    "U+1F986"
+  ],
+  "version": "3.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bird",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2678
+}

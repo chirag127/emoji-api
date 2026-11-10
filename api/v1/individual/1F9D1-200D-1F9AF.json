@@ -1,0 +1,19 @@
+{
+  "id": "1F9D1-200D-1F9AF",
+  "emoji": "🧑‍🦯",
+  "name": "person with white cane",
+  "codepoints": [
+    "U+1F9D1",
+    "U+200D",
+    "U+1F9AF"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1634
+}

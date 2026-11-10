@@ -1,0 +1,17 @@
+{
+  "id": "1F374",
+  "emoji": "🍴",
+  "name": "fork and knife",
+  "codepoints": [
+    "U+1F374"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "dishware",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2890
+}

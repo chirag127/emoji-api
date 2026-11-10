@@ -1,0 +1,18 @@
+{
+  "id": "1F575-FE0F",
+  "emoji": "🕵️",
+  "name": "detective",
+  "codepoints": [
+    "U+1F575",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1164
+}

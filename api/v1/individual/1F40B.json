@@ -1,0 +1,17 @@
+{
+  "id": "1F40B",
+  "emoji": "🐋",
+  "name": "whale",
+  "codepoints": [
+    "U+1F40B"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2700
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F1F3-1F1F4",
+  "emoji": "🇳🇴",
+  "name": "flag: Norway",
+  "codepoints": [
+    "U+1F1F3",
+    "U+1F1F4"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3874
+}

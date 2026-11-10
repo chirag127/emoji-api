@@ -1,0 +1,17 @@
+{
+  "id": "1F691",
+  "emoji": "🚑",
+  "name": "ambulance",
+  "codepoints": [
+    "U+1F691"
+  ],
+  "version": "0.6",
+  "group": "Travel & Places",
+  "subgroup": "transport-ground",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2978
+}

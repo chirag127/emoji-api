@@ -1,0 +1,17 @@
+{
+  "id": "1FAEB",
+  "emoji": "🫫",
+  "name": "cracking face",
+  "codepoints": [
+    "U+1FAEB"
+  ],
+  "version": "18.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-smiling",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 11
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F9E9",
+  "emoji": "🧩",
+  "name": "puzzle piece",
+  "codepoints": [
+    "U+1F9E9"
+  ],
+  "version": "11.0",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3181
+}

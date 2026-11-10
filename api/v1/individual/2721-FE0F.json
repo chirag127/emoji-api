@@ -1,0 +1,18 @@
+{
+  "id": "2721-FE0F",
+  "emoji": "✡️",
+  "name": "star of David",
+  "codepoints": [
+    "U+2721",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Symbols",
+  "subgroup": "religion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3519
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F46D",
+  "emoji": "👭",
+  "name": "women holding hands",
+  "codepoints": [
+    "U+1F46D"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "family",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2280
+}

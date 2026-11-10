@@ -1,0 +1,18 @@
+{
+  "id": "1F91D-1F3FE",
+  "emoji": "🤝🏾",
+  "name": "handshake: medium-dark skin tone",
+  "codepoints": [
+    "U+1F91D",
+    "U+1F3FE"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hands",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F91D",
+  "status": "fully-qualified",
+  "order": 416
+}

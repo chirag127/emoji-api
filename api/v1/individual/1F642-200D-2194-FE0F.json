@@ -1,0 +1,20 @@
+{
+  "id": "1F642-200D-2194-FE0F",
+  "emoji": "🙂‍↔️",
+  "name": "head shaking horizontally",
+  "codepoints": [
+    "U+1F642",
+    "U+200D",
+    "U+2194",
+    "U+FE0F"
+  ],
+  "version": "15.1",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 51
+}

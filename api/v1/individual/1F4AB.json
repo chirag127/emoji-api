@@ -1,0 +1,17 @@
+{
+  "id": "1F4AB",
+  "emoji": "💫",
+  "name": "dizzy",
+  "codepoints": [
+    "U+1F4AB"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "emotion",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 162
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F38A",
+  "emoji": "🎊",
+  "name": "confetti ball",
+  "codepoints": [
+    "U+1F38A"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "event",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3124
+}

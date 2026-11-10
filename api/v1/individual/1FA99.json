@@ -1,0 +1,17 @@
+{
+  "id": "1FA99",
+  "emoji": "🪙",
+  "name": "coin",
+  "codepoints": [
+    "U+1FA99"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "money",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3332
+}

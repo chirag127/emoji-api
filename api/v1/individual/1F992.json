@@ -1,0 +1,17 @@
+{
+  "id": "1F992",
+  "emoji": "🦒",
+  "name": "giraffe",
+  "codepoints": [
+    "U+1F992"
+  ],
+  "version": "5.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2643
+}

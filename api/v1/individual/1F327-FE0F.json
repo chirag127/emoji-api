@@ -1,0 +1,18 @@
+{
+  "id": "1F327-FE0F",
+  "emoji": "🌧️",
+  "name": "cloud with rain",
+  "codepoints": [
+    "U+1F327",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3095
+}

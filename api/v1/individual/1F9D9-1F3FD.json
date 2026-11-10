@@ -1,0 +1,18 @@
+{
+  "id": "1F9D9-1F3FD",
+  "emoji": "🧙🏽",
+  "name": "mage: medium skin tone",
+  "codepoints": [
+    "U+1F9D9",
+    "U+1F3FD"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium",
+  "base": "1F9D9",
+  "status": "fully-qualified",
+  "order": 1413
+}

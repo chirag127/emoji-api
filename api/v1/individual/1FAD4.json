@@ -1,0 +1,17 @@
+{
+  "id": "1FAD4",
+  "emoji": "🫔",
+  "name": "tamale",
+  "codepoints": [
+    "U+1FAD4"
+  ],
+  "version": "13.0",
+  "group": "Food & Drink",
+  "subgroup": "food-prepared",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2823
+}

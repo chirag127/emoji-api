@@ -1,0 +1,17 @@
+{
+  "id": "1F408",
+  "emoji": "🐈",
+  "name": "cat",
+  "codepoints": [
+    "U+1F408"
+  ],
+  "version": "0.7",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2615
+}

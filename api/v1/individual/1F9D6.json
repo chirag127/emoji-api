@@ -1,0 +1,17 @@
+{
+  "id": "1F9D6",
+  "emoji": "🧖",
+  "name": "person in steamy room",
+  "codepoints": [
+    "U+1F9D6"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1880
+}

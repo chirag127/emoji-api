@@ -1,0 +1,20 @@
+{
+  "id": "1F468-1F3FF-200D-1F373",
+  "emoji": "👨🏿‍🍳",
+  "name": "man cook: dark skin tone",
+  "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+1F373"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F468-200D-1F373",
+  "status": "fully-qualified",
+  "order": 959
+}

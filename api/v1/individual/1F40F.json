@@ -1,0 +1,17 @@
+{
+  "id": "1F40F",
+  "emoji": "🐏",
+  "name": "ram",
+  "codepoints": [
+    "U+1F40F"
+  ],
+  "version": "1.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2637
+}

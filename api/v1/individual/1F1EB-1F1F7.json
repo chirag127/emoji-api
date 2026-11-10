@@ -1,0 +1,18 @@
+{
+  "id": "1F1EB-1F1F7",
+  "emoji": "🇫🇷",
+  "name": "flag: France",
+  "codepoints": [
+    "U+1F1EB",
+    "U+1F1F7"
+  ],
+  "version": "0.6",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3781
+}

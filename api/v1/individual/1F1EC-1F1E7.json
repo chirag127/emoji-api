@@ -1,0 +1,18 @@
+{
+  "id": "1F1EC-1F1E7",
+  "emoji": "🇬🇧",
+  "name": "flag: United Kingdom",
+  "codepoints": [
+    "U+1F1EC",
+    "U+1F1E7"
+  ],
+  "version": "0.6",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3783
+}

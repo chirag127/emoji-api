@@ -1,0 +1,17 @@
+{
+  "id": "1F9D9",
+  "emoji": "🧙",
+  "name": "mage",
+  "codepoints": [
+    "U+1F9D9"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1410
+}

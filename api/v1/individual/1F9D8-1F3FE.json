@@ -1,0 +1,18 @@
+{
+  "id": "1F9D8-1F3FE",
+  "emoji": "🧘🏾",
+  "name": "person in lotus position: medium-dark skin tone",
+  "codepoints": [
+    "U+1F9D8",
+    "U+1F3FE"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-resting",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F9D8",
+  "status": "fully-qualified",
+  "order": 2228
+}

@@ -1,0 +1,18 @@
+{
+  "id": "26E9-FE0F",
+  "emoji": "⛩️",
+  "name": "shinto shrine",
+  "codepoints": [
+    "U+26E9",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "place-religious",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2943
+}

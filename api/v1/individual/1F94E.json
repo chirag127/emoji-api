@@ -1,0 +1,17 @@
+{
+  "id": "1F94E",
+  "emoji": "🥎",
+  "name": "softball",
+  "codepoints": [
+    "U+1F94E"
+  ],
+  "version": "11.0",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3145
+}

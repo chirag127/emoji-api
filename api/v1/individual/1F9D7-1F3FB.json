@@ -1,0 +1,18 @@
+{
+  "id": "1F9D7-1F3FB",
+  "emoji": "🧗🏻",
+  "name": "person climbing: light skin tone",
+  "codepoints": [
+    "U+1F9D7",
+    "U+1F3FB"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "light",
+  "base": "1F9D7",
+  "status": "fully-qualified",
+  "order": 1899
+}

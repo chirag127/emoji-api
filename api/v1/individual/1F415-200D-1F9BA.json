@@ -1,0 +1,19 @@
+{
+  "id": "1F415-200D-1F9BA",
+  "emoji": "🐕‍🦺",
+  "name": "service dog",
+  "codepoints": [
+    "U+1F415",
+    "U+200D",
+    "U+1F9BA"
+  ],
+  "version": "12.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2609
+}

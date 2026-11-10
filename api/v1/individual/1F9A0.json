@@ -1,0 +1,17 @@
+{
+  "id": "1F9A0",
+  "emoji": "🦠",
+  "name": "microbe",
+  "codepoints": [
+    "U+1F9A0"
+  ],
+  "version": "11.0",
+  "group": "Animals & Nature",
+  "subgroup": "animal-bug",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2733
+}

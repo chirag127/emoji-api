@@ -1,0 +1,17 @@
+{
+  "id": "1F4B1",
+  "emoji": "💱",
+  "name": "currency exchange",
+  "codepoints": [
+    "U+1F4B1"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "currency",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3583
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F48C",
+  "emoji": "💌",
+  "name": "love letter",
+  "codepoints": [
+    "U+1F48C"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "heart",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 132
+}

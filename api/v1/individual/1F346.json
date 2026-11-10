@@ -1,0 +1,17 @@
+{
+  "id": "1F346",
+  "emoji": "🍆",
+  "name": "eggplant",
+  "codepoints": [
+    "U+1F346"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2784
+}

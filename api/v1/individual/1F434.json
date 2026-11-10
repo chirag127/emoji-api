@@ -1,0 +1,17 @@
+{
+  "id": "1F434",
+  "emoji": "🐴",
+  "name": "horse face",
+  "codepoints": [
+    "U+1F434"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-mammal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2621
+}

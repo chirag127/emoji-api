@@ -1,0 +1,17 @@
+{
+  "id": "1FA9A",
+  "emoji": "🪚",
+  "name": "carpentry saw",
+  "codepoints": [
+    "U+1FA9A"
+  ],
+  "version": "13.0",
+  "group": "Objects",
+  "subgroup": "tool",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3405
+}

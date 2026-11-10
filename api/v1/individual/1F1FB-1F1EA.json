@@ -1,0 +1,18 @@
+{
+  "id": "1F1FB-1F1EA",
+  "emoji": "🇻🇪",
+  "name": "flag: Venezuela",
+  "codepoints": [
+    "U+1F1FB",
+    "U+1F1EA"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3947
+}

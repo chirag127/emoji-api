@@ -1,0 +1,18 @@
+{
+  "id": "1F575-1F3FE",
+  "emoji": "🕵🏾",
+  "name": "detective: medium-dark skin tone",
+  "codepoints": [
+    "U+1F575",
+    "U+1F3FE"
+  ],
+  "version": "2.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1F575-FE0F",
+  "status": "fully-qualified",
+  "order": 1168
+}

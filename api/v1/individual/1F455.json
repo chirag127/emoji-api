@@ -1,0 +1,17 @@
+{
+  "id": "1F455",
+  "emoji": "👕",
+  "name": "t-shirt",
+  "codepoints": [
+    "U+1F455"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "clothing",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3207
+}

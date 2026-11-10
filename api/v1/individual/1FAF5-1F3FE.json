@@ -1,0 +1,18 @@
+{
+  "id": "1FAF5-1F3FE",
+  "emoji": "🫵🏾",
+  "name": "index pointing at the viewer: medium-dark skin tone",
+  "codepoints": [
+    "U+1FAF5",
+    "U+1F3FE"
+  ],
+  "version": "14.0",
+  "group": "People & Body",
+  "subgroup": "hand-single-finger",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-dark",
+  "base": "1FAF5",
+  "status": "fully-qualified",
+  "order": 332
+}

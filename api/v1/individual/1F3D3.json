@@ -1,0 +1,17 @@
+{
+  "id": "1F3D3",
+  "emoji": "🏓",
+  "name": "ping pong",
+  "codepoints": [
+    "U+1F3D3"
+  ],
+  "version": "1.0",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3157
+}

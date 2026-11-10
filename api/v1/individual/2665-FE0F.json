@@ -1,0 +1,18 @@
+{
+  "id": "2665-FE0F",
+  "emoji": "♥️",
+  "name": "heart suit",
+  "codepoints": [
+    "U+2665",
+    "U+FE0F"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3187
+}

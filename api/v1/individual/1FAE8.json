@@ -1,0 +1,17 @@
+{
+  "id": "1FAE8",
+  "emoji": "🫨",
+  "name": "shaking face",
+  "codepoints": [
+    "U+1FAE8"
+  ],
+  "version": "15.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-neutral-skeptical",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 50
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F368",
+  "emoji": "🍨",
+  "name": "ice cream",
+  "codepoints": [
+    "U+1F368"
+  ],
+  "version": "0.6",
+  "group": "Food & Drink",
+  "subgroup": "food-sweet",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2856
+}

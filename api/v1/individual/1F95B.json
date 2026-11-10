@@ -1,0 +1,17 @@
+{
+  "id": "1F95B",
+  "emoji": "🥛",
+  "name": "glass of milk",
+  "codepoints": [
+    "U+1F95B"
+  ],
+  "version": "3.0",
+  "group": "Food & Drink",
+  "subgroup": "drink",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2869
+}

@@ -1,0 +1,17 @@
+{
+  "id": "264B",
+  "emoji": "♋",
+  "name": "Cancer",
+  "codepoints": [
+    "U+264B"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "zodiac",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3532
+}

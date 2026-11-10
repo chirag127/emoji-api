@@ -1,0 +1,18 @@
+{
+  "id": "1F441-FE0F",
+  "emoji": "👁️",
+  "name": "eye",
+  "codepoints": [
+    "U+1F441",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "body-parts",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 506
+}

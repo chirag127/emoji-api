@@ -1,0 +1,18 @@
+{
+  "id": "1F385-1F3FC",
+  "emoji": "🎅🏼",
+  "name": "Santa Claus: medium-light skin tone",
+  "codepoints": [
+    "U+1F385",
+    "U+1F3FC"
+  ],
+  "version": "1.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "medium-light",
+  "base": "1F385",
+  "status": "fully-qualified",
+  "order": 1358
+}

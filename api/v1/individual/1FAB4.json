@@ -1,0 +1,17 @@
+{
+  "id": "1FAB4",
+  "emoji": "🪴",
+  "name": "potted plant",
+  "codepoints": [
+    "U+1FAB4"
+  ],
+  "version": "13.0",
+  "group": "Animals & Nature",
+  "subgroup": "plant-other",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2747
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F948",
+  "emoji": "🥈",
+  "name": "2nd place medal",
+  "codepoints": [
+    "U+1F948"
+  ],
+  "version": "3.0",
+  "group": "Activities",
+  "subgroup": "award-medal",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3141
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F6F8",
+  "emoji": "🛸",
+  "name": "flying saucer",
+  "codepoints": [
+    "U+1F6F8"
+  ],
+  "version": "5.0",
+  "group": "Travel & Places",
+  "subgroup": "transport-air",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3034
+}

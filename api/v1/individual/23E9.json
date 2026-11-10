@@ -1,0 +1,17 @@
+{
+  "id": "23E9",
+  "emoji": "⏩",
+  "name": "fast-forward button",
+  "codepoints": [
+    "U+23E9"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "av-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3546
+}

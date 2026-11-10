@@ -1,0 +1,21 @@
+{
+  "id": "1F3CC-FE0F-200D-2640-FE0F",
+  "emoji": "🏌️‍♀️",
+  "name": "woman golfing",
+  "codepoints": [
+    "U+1F3CC",
+    "U+FE0F",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-sport",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1942
+}

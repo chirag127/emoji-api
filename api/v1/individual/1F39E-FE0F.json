@@ -1,0 +1,18 @@
+{
+  "id": "1F39E-FE0F",
+  "emoji": "🎞️",
+  "name": "film frames",
+  "codepoints": [
+    "U+1F39E",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Objects",
+  "subgroup": "light & video",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3300
+}

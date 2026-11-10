@@ -1,0 +1,17 @@
+{
+  "id": "1F30E",
+  "emoji": "🌎",
+  "name": "globe showing Americas",
+  "codepoints": [
+    "U+1F30E"
+  ],
+  "version": "0.7",
+  "group": "Travel & Places",
+  "subgroup": "place-map",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2896
+}

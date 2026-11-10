@@ -1,0 +1,17 @@
+{
+  "id": "1FAD1",
+  "emoji": "🫑",
+  "name": "bell pepper",
+  "codepoints": [
+    "U+1FAD1"
+  ],
+  "version": "13.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2789
+}

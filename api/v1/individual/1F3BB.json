@@ -1,0 +1,17 @@
+{
+  "id": "1F3BB",
+  "emoji": "🎻",
+  "name": "violin",
+  "codepoints": [
+    "U+1F3BB"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3272
+}

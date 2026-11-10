@@ -1,0 +1,17 @@
+{
+  "id": "1F936",
+  "emoji": "🤶",
+  "name": "Mrs. Claus",
+  "codepoints": [
+    "U+1F936"
+  ],
+  "version": "3.0",
+  "group": "People & Body",
+  "subgroup": "person-fantasy",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1362
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F4EE",
+  "emoji": "📮",
+  "name": "postbox",
+  "codepoints": [
+    "U+1F4EE"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "mail",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3354
+}

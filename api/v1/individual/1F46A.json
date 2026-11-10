@@ -1,0 +1,17 @@
+{
+  "id": "1F46A",
+  "emoji": "👪",
+  "name": "family",
+  "codepoints": [
+    "U+1F46A"
+  ],
+  "version": "0.6",
+  "group": "People & Body",
+  "subgroup": "person-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2595
+}

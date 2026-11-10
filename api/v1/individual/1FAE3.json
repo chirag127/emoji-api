@@ -1,0 +1,17 @@
+{
+  "id": "1FAE3",
+  "emoji": "🫣",
+  "name": "face with peeking eye",
+  "codepoints": [
+    "U+1FAE3"
+  ],
+  "version": "14.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-hand",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 33
+}

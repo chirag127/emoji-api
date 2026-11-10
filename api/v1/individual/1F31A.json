@@ -1,0 +1,17 @@
+{
+  "id": "1F31A",
+  "emoji": "🌚",
+  "name": "new moon face",
+  "codepoints": [
+    "U+1F31A"
+  ],
+  "version": "1.0",
+  "group": "Travel & Places",
+  "subgroup": "sky & weather",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3077
+}

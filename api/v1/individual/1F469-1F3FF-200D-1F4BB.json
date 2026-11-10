@@ -1,0 +1,20 @@
+{
+  "id": "1F469-1F3FF-200D-1F4BB",
+  "emoji": "👩🏿‍💻",
+  "name": "woman technologist: dark skin tone",
+  "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+1F4BB"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 0,
+  "tone": "dark",
+  "base": "1F469-200D-1F4BB",
+  "status": "fully-qualified",
+  "order": 1055
+}

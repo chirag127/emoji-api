@@ -1,0 +1,18 @@
+{
+  "id": "1F1F5-1F1F8",
+  "emoji": "🇵🇸",
+  "name": "flag: Palestinian Territories",
+  "codepoints": [
+    "U+1F1F5",
+    "U+1F1F8"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3890
+}

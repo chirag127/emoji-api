@@ -1,0 +1,17 @@
+{
+  "id": "1F3B9",
+  "emoji": "🎹",
+  "name": "musical keyboard",
+  "codepoints": [
+    "U+1F3B9"
+  ],
+  "version": "0.6",
+  "group": "Objects",
+  "subgroup": "musical-instrument",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3271
+}

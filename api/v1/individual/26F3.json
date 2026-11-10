@@ -1,0 +1,17 @@
+{
+  "id": "26F3",
+  "emoji": "⛳",
+  "name": "flag in hole",
+  "codepoints": [
+    "U+26F3"
+  ],
+  "version": "0.6",
+  "group": "Activities",
+  "subgroup": "sport",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3162
+}

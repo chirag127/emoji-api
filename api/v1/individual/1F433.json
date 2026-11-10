@@ -1,0 +1,17 @@
+{
+  "id": "1F433",
+  "emoji": "🐳",
+  "name": "spouting whale",
+  "codepoints": [
+    "U+1F433"
+  ],
+  "version": "0.6",
+  "group": "Animals & Nature",
+  "subgroup": "animal-marine",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2699
+}

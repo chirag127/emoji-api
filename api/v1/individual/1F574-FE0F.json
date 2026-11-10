@@ -1,0 +1,18 @@
+{
+  "id": "1F574-FE0F",
+  "emoji": "🕴️",
+  "name": "person in suit levitating",
+  "codepoints": [
+    "U+1F574",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "People & Body",
+  "subgroup": "person-activity",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1796
+}

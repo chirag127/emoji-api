@@ -1,0 +1,17 @@
+{
+  "id": "1F931",
+  "emoji": "🤱",
+  "name": "breast-feeding",
+  "codepoints": [
+    "U+1F931"
+  ],
+  "version": "5.0",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 1326
+}

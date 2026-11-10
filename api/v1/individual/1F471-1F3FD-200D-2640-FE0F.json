@@ -1,0 +1,21 @@
+{
+  "id": "1F471-1F3FD-200D-2640-FE0F",
+  "emoji": "👱🏽‍♀️",
+  "name": "woman: medium skin tone, blond hair",
+  "codepoints": [
+    "U+1F471",
+    "U+1F3FD",
+    "U+200D",
+    "U+2640",
+    "U+FE0F"
+  ],
+  "version": "4.0",
+  "group": "People & Body",
+  "subgroup": "person",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 651
+}

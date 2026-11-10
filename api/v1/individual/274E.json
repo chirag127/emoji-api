@@ -1,0 +1,17 @@
+{
+  "id": "274E",
+  "emoji": "❎",
+  "name": "cross mark button",
+  "codepoints": [
+    "U+274E"
+  ],
+  "version": "0.6",
+  "group": "Symbols",
+  "subgroup": "other-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3596
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1F579-FE0F",
+  "emoji": "🕹️",
+  "name": "joystick",
+  "codepoints": [
+    "U+1F579",
+    "U+FE0F"
+  ],
+  "version": "0.7",
+  "group": "Activities",
+  "subgroup": "game",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3178
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1F634",
+  "emoji": "😴",
+  "name": "sleeping face",
+  "codepoints": [
+    "U+1F634"
+  ],
+  "version": "1.0",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-sleepy",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 57
+}

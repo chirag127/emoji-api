@@ -1,0 +1,17 @@
+{
+  "id": "1F47B",
+  "emoji": "👻",
+  "name": "ghost",
+  "codepoints": [
+    "U+1F47B"
+  ],
+  "version": "0.6",
+  "group": "Smileys & Emotion",
+  "subgroup": "face-costume",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 116
+}

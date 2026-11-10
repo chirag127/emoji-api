@@ -1,0 +1,20 @@
+{
+  "id": "1F3F4-200D-2620-FE0F",
+  "emoji": "🏴‍☠️",
+  "name": "pirate flag",
+  "codepoints": [
+    "U+1F3F4",
+    "U+200D",
+    "U+2620",
+    "U+FE0F"
+  ],
+  "version": "11.0",
+  "group": "Flags",
+  "subgroup": "flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3700
+}

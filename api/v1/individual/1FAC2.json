@@ -1,0 +1,17 @@
+{
+  "id": "1FAC2",
+  "emoji": "🫂",
+  "name": "people hugging",
+  "codepoints": [
+    "U+1FAC2"
+  ],
+  "version": "13.0",
+  "group": "People & Body",
+  "subgroup": "person-symbol",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2594
+}

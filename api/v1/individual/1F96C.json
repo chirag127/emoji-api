@@ -1,0 +1,17 @@
+{
+  "id": "1F96C",
+  "emoji": "🥬",
+  "name": "leafy green",
+  "codepoints": [
+    "U+1F96C"
+  ],
+  "version": "11.0",
+  "group": "Food & Drink",
+  "subgroup": "food-vegetable",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 2792
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1F9D1-200D-1F393",
+  "emoji": "🧑‍🎓",
+  "name": "student",
+  "codepoints": [
+    "U+1F9D1",
+    "U+200D",
+    "U+1F393"
+  ],
+  "version": "12.1",
+  "group": "People & Body",
+  "subgroup": "person-role",
+  "skinToneSupport": true,
+  "skinToneVariants": 5,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 876
+}

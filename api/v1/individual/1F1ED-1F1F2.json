@@ -1,0 +1,18 @@
+{
+  "id": "1F1ED-1F1F2",
+  "emoji": "🇭🇲",
+  "name": "flag: Heard Island & McDonald Islands",
+  "codepoints": [
+    "U+1F1ED",
+    "U+1F1F2"
+  ],
+  "version": "2.0",
+  "group": "Flags",
+  "subgroup": "country-flag",
+  "skinToneSupport": false,
+  "skinToneVariants": 0,
+  "tone": null,
+  "base": null,
+  "status": "fully-qualified",
+  "order": 3802
+}
